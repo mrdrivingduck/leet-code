@@ -15,7 +15,7 @@ The way to become bareheaded. 👨‍🦲
 ## Compile and Run
 
 ```console
-make SRC=1.TwoSum.cpp
+$ make SRC=1.TwoSum.cpp
 ```
 
 ```console
