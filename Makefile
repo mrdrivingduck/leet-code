@@ -11,7 +11,7 @@ SRC		:=
 ifeq ($(OS),Windows_NT)
 EXECUTABLE	:= main.exe
 else
-EXECUTABLE	:= main
+EXECUTABLE	:= ./main
 endif
 
 all: $(EXECUTABLE)
