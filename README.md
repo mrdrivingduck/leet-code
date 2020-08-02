@@ -36,6 +36,7 @@ $ make clean
 | 4     | Median of Two Sorted Arrays                    | Hard       | [link](4.MedianOfTwoSortedArrays.cpp) |
 | 5     | Longest Palindromic Substring                  | Middle     | [link](5.LongestPalindromicSubstring.cpp) |
 | 6     | ZigZag Conversion                              | Middle     | [link](6.ZigZagConversion.cpp)
+| 8     | String to Integer (atoi)                       | Middle     | [link](8.StringToInteger.cpp)
 | 79    | Word Search                                    | Middle     | [link](79.WordSearch.cpp) |
 
 ---
