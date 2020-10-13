@@ -42,6 +42,7 @@ make clean
 | 15    | 3Sum                                           | Middle     | [C++](15.3Sum.cpp) |
 | 16    | 3Sum Closest                                   | Middle     | [C++](16.3SumClosest.cpp) |
 | 17    | Letter Combinations of a Phone Number          | Middle     | [C++](17.LetterCombinationsOfAPhoneNumber.cpp) |
+| 18    | 4Sum                                           | Middle     | [C++](18.4Sum.cpp) |
 | 79    | Word Search                                    | Middle     | [C++](79.WordSearch.cpp) |
 
 ---
