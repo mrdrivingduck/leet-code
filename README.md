@@ -44,13 +44,14 @@ make clean
 | 17    | Letter Combinations of a Phone Number          | Middle     | [C++](17.LetterCombinationsOfAPhoneNumber.cpp) |
 | 18    | 4Sum                                           | Middle     | [C++](18.4Sum.cpp) |
 | 79    | Word Search                                    | Middle     | [C++](79.WordSearch.cpp) |
-| 105   | Construct Binary Tree from Preorder and Inorder Traversal   | Middle     | [C++](Offer07.ConstructBinaryTreeFromPreorderAndInorderTraversal) |
+| 105   | Construct Binary Tree from Preorder and Inorder Traversal   | Middle     | [C++](Offer07.ConstructBinaryTreeFromPreorderAndInorderTraversal.cpp) |
 
 ## 剑指 Offer
 
 | #     | Problem                                        | Difficulty | Link | 
 | ----  | ----                                           | ----       | ---- |
-| 07    | 剑指 Offer 07. 重建二叉树                        | Middle     | [C++](Offer07.ConstructBinaryTreeFromPreorderAndInorderTraversal) |
+| 07    | 剑指 Offer 07. 重建二叉树                        | Middle     | [C++](Offer07.ConstructBinaryTreeFromPreorderAndInorderTraversal.cpp) |
+| 12    | 剑指 Offer 12. 矩阵中的路径                      | Middle     | [C++](Offer12.WordSearch.cpp) |
 
 ---
 
