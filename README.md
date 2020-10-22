@@ -52,6 +52,7 @@ make clean
 | ----  | ----                                           | ----       | ---- |
 | 07    | 剑指 Offer 07. 重建二叉树                        | Middle     | [C++](Offer07.ConstructBinaryTreeFromPreorderAndInorderTraversal.cpp) |
 | 12    | 剑指 Offer 12. 矩阵中的路径                      | Middle     | [C++](Offer12.WordSearch.cpp) |
+| 13    | 剑指 Offer 13. 机器人的运动范围                   | Middle     | [C++](Offer13.MoveRangeOfRobot.cpp) |
 
 ---
 
