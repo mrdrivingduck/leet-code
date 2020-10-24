@@ -43,6 +43,7 @@ make clean
 | 16    | 3Sum Closest                                   | Middle     | [C++](16.3SumClosest.cpp) |
 | 17    | Letter Combinations of a Phone Number          | Middle     | [C++](17.LetterCombinationsOfAPhoneNumber.cpp) |
 | 18    | 4Sum                                           | Middle     | [C++](18.4Sum.cpp) |
+| 50    | Pow(x, n)                                      | Middle     | [C++](Offer16.MyPow.cpp) |
 | 79    | Word Search                                    | Middle     | [C++](79.WordSearch.cpp) |
 | 105   | Construct Binary Tree from Preorder and Inorder Traversal   | Middle     | [C++](Offer07.ConstructBinaryTreeFromPreorderAndInorderTraversal.cpp) |
 
@@ -53,6 +54,7 @@ make clean
 | 07    | 剑指 Offer 07. 重建二叉树                        | Middle     | [C++](Offer07.ConstructBinaryTreeFromPreorderAndInorderTraversal.cpp) |
 | 12    | 剑指 Offer 12. 矩阵中的路径                      | Middle     | [C++](Offer12.WordSearch.cpp) |
 | 13    | 剑指 Offer 13. 机器人的运动范围                   | Middle     | [C++](Offer13.MoveRangeOfRobot.cpp) |
+| 16    | 剑指 Offer 16. 数值的整数次方                     | Middle     | [C++](Offer16.MyPow.cpp) |
 
 ---
 
