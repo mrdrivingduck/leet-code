@@ -56,7 +56,8 @@ make clean
 | 12    | 剑指 Offer 12. 矩阵中的路径                      | Middle     | [C++](Offer12.WordSearch.cpp) |
 | 13    | 剑指 Offer 13. 机器人的运动范围                   | Middle     | [C++](Offer13.MoveRangeOfRobot.cpp) |
 | 16    | 剑指 Offer 16. 数值的整数次方                     | Middle     | [C++](Offer16.MyPow.cpp) |
-| 31    | 剑指 Offer 31. 栈的压入、弹出序列                  | Middle     | [C++](Offer31.ValidateStackSequences.cpp) |
+| 31    | 剑指 Offer 31. 栈的压入、弹出序列                 | Middle     | [C++](Offer31.ValidateStackSequences.cpp) |
+| 33    | 剑指 Offer 33. 二叉搜索树的后序遍历序列            | Middle     | [C++](Offer33.BSTPostTraverseSequence.cpp) |
 
 ---
 
