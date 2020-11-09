@@ -47,6 +47,7 @@ make clean
 | 79    | Word Search                                    | Middle     | [C++](79.WordSearch.cpp) |
 | 105   | Construct Binary Tree from Preorder and Inorder Traversal   | Middle     | [C++](Offer07.ConstructBinaryTreeFromPreorderAndInorderTraversal.cpp) |
 | 946   | Validate Stack Sequences                       | Middle     | [C++](Offer31.ValidateStackSequences.cpp) |
+| 973   | K Closest Points to Origin                     | Middle     | [C++](973.KClosestPointsToOrigin.cpp) |
 
 ## 剑指 Offer
 
