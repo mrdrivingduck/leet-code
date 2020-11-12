@@ -47,6 +47,8 @@ make clean
 | 50    | Pow(x, n)                                      | Middle     | [C++](Offer16.MyPow.cpp) |
 | 79    | Word Search                                    | Middle     | [C++](79.WordSearch.cpp) |
 | 105   | Construct Binary Tree from Preorder and Inorder Traversal   | Middle     | [C++](Offer07.ConstructBinaryTreeFromPreorderAndInorderTraversal.cpp) |
+| 138   | Copy List with Random Pointer                  | Middle     | [C++](Offer35.CopyListWithRandomPointer.cpp) |
+| 922   | Sort Array By Parity II                        | Simple     | [C++](922.SortArrayByParityII.cpp) |
 | 946   | Validate Stack Sequences                       | Middle     | [C++](Offer31.ValidateStackSequences.cpp) |
 | 973   | K Closest Points to Origin                     | Middle     | [C++](973.KClosestPointsToOrigin.cpp) |
 
@@ -60,6 +62,7 @@ make clean
 | 16    | 剑指 Offer 16. 数值的整数次方                     | Middle     | [C++](Offer16.MyPow.cpp) |
 | 31    | 剑指 Offer 31. 栈的压入、弹出序列                 | Middle     | [C++](Offer31.ValidateStackSequences.cpp) |
 | 33    | 剑指 Offer 33. 二叉搜索树的后序遍历序列            | Middle     | [C++](Offer33.BSTPostTraverseSequence.cpp) |
+| 35    | 剑指 Offer 35. 复杂链表的复制                    | Middle     | [C++](Offer35.CopyListWithRandomPointer.cpp) |
 
 ---
 
