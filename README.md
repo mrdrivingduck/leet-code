@@ -49,9 +49,11 @@ make clean
 | 105   | Construct Binary Tree from Preorder and Inorder Traversal   | Medium     | [C++](Offer07.ConstructBinaryTreeFromPreorderAndInorderTraversal.cpp) |
 | 138   | Copy List with Random Pointer                  | Medium     | [C++](Offer35.CopyListWithRandomPointer.cpp) |
 | 328   | Odd Even Linked List                           | Medium     | [C++](328.OddEvenLinkedList.cpp) |
+| 402   | Remove K Digits                                | Medium     | [C++](402.RemoveKDigits.cpp) |
 | 922   | Sort Array By Parity II                        | Simple     | [C++](922.SortArrayByParityII.cpp) |
 | 946   | Validate Stack Sequences                       | Medium     | [C++](Offer31.ValidateStackSequences.cpp) |
 | 973   | K Closest Points to Origin                     | Medium     | [C++](973.KClosestPointsToOrigin.cpp) |
+| 1122  | Relative Sort Array                            | Simple     | [C++](1122.RelativeSortArray.cpp) |
 
 ## 剑指 Offer
 
