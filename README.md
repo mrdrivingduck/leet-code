@@ -66,6 +66,7 @@ make clean
 | 31    | 剑指 Offer 31. 栈的压入、弹出序列                 | Medium     | [C++](Offer31.ValidateStackSequences.cpp) |
 | 33    | 剑指 Offer 33. 二叉搜索树的后序遍历序列            | Medium     | [C++](Offer33.BSTPostTraverseSequence.cpp) |
 | 35    | 剑指 Offer 35. 复杂链表的复制                    | Medium     | [C++](Offer35.CopyListWithRandomPointer.cpp) |
+| 36    | 剑指 Offer 36. 二叉搜索树与双向链表               | Medium     | [C++](Offer36.ConvertBinarySearchTreeToSortedDoublyLinkedList.cpp) |
 
 ---
 
