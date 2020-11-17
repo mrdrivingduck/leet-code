@@ -48,11 +48,13 @@ make clean
 | 79    | Word Search                                    | Medium     | [C++](79.WordSearch.cpp) |
 | 105   | Construct Binary Tree from Preorder and Inorder Traversal   | Medium     | [C++](Offer07.ConstructBinaryTreeFromPreorderAndInorderTraversal.cpp) |
 | 138   | Copy List with Random Pointer                  | Medium     | [C++](Offer35.CopyListWithRandomPointer.cpp) |
+| 297   | Serialize and Deserialize Binary Tree          | Hard       | [C++](Offer37.SerializeAndDeserializeBinaryTree.cpp) |
 | 328   | Odd Even Linked List                           | Medium     | [C++](328.OddEvenLinkedList.cpp) |
 | 402   | Remove K Digits                                | Medium     | [C++](402.RemoveKDigits.cpp) |
 | 922   | Sort Array By Parity II                        | Simple     | [C++](922.SortArrayByParityII.cpp) |
 | 946   | Validate Stack Sequences                       | Medium     | [C++](Offer31.ValidateStackSequences.cpp) |
 | 973   | K Closest Points to Origin                     | Medium     | [C++](973.KClosestPointsToOrigin.cpp) |
+| 1030  | Matrix Cells in Distance Order                 | Simple     | [C++](1030.MatrixCellsInDistanceOrder.cpp) |
 | 1122  | Relative Sort Array                            | Simple     | [C++](1122.RelativeSortArray.cpp) |
 
 ## 剑指 Offer
@@ -67,6 +69,7 @@ make clean
 | 33    | 剑指 Offer 33. 二叉搜索树的后序遍历序列            | Medium     | [C++](Offer33.BSTPostTraverseSequence.cpp) |
 | 35    | 剑指 Offer 35. 复杂链表的复制                    | Medium     | [C++](Offer35.CopyListWithRandomPointer.cpp) |
 | 36    | 剑指 Offer 36. 二叉搜索树与双向链表               | Medium     | [C++](Offer36.ConvertBinarySearchTreeToSortedDoublyLinkedList.cpp) |
+| 37    | 剑指 Offer 37. 序列化二叉树                      | Hard       | [C++](Offer37.SerializeAndDeserializeBinaryTree.cpp) |
 
 ---
 
