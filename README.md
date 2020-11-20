@@ -73,6 +73,7 @@ make clean
 | 35    | 剑指 Offer 35. 复杂链表的复制                    | Medium     | [C++](Offer35.CopyListWithRandomPointer.cpp) |
 | 36    | 剑指 Offer 36. 二叉搜索树与双向链表               | Medium     | [C++](Offer36.ConvertBinarySearchTreeToSortedDoublyLinkedList.cpp) |
 | 37    | 剑指 Offer 37. 序列化二叉树                      | Hard       | [C++](Offer37.SerializeAndDeserializeBinaryTree.cpp) |
+| 38    | 剑指 Offer 38. 字符串的排列  LCOF                | Medium     | [C++](Offer38.StringPermutation.cpp) |
 
 ---
 
