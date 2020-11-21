@@ -71,6 +71,7 @@ struct ListNode {
 class Solution {
 public:
     ListNode* sortList(ListNode* head) {
+        // return merge_top_down(head);
         return merge_bottom_up(head);
     }
 
@@ -79,56 +80,83 @@ public:
             return head;
         }
 
-        vector<ListNode *> sub_list_ptr;
-        sub_list_ptr.reserve(128);
-        ListNode *p = head;
-        while (p) {
-            sub_list_ptr.push_back(p);
-            p = p->next;
-            sub_list_ptr[sub_list_ptr.size() - 1]->next = NULL;
+        int length = 0;
+        ListNode *worker = head;
+        while (worker) {
+            length++;
+            worker = worker->next;
         }
 
         ListNode dummy_head;
+        dummy_head.next = head;
+        int step_len = 1;
 
-        while (sub_list_ptr.size() != 1) {
-            for (size_t i = 0; i < sub_list_ptr.size(); i += 2) {
-                if (i + 1 < sub_list_ptr.size()) {
-                    // merge two sub list
-                    p = &dummy_head;
-                    while (sub_list_ptr[i] && sub_list_ptr[i + 1]) {
-                        if (sub_list_ptr[i]->val < sub_list_ptr[i + 1]->val) {
-                            p->next = sub_list_ptr[i];
-                            sub_list_ptr[i] = sub_list_ptr[i]->next;
-                        } else {
-                            p->next = sub_list_ptr[i + 1];
-                            sub_list_ptr[i + 1] = sub_list_ptr[i + 1]->next;
-                        }
-                        p = p->next;
-                    }
-                    while (sub_list_ptr[i]) {
-                        p->next = sub_list_ptr[i];
-                        sub_list_ptr[i] = sub_list_ptr[i]->next;
-                        p = p->next;
-                    }
-                    while (sub_list_ptr[i + 1]) {
-                        p->next = sub_list_ptr[i + 1];
-                        sub_list_ptr[i + 1] = sub_list_ptr[i + 1]->next;
-                        p = p->next;
-                    }
-                    sub_list_ptr[i >> 1] = dummy_head.next;
-                } else {
-                    // merge directly
-                    sub_list_ptr[i >> 1] = sub_list_ptr[i];
+        while (step_len < length) {
+            int count = 0;
+            ListNode *sub_1 = head, *sub_1_tail, *sub_2, *sub_2_tail;
+            ListNode *worker = head;
+            ListNode *pre = &dummy_head;
+
+            while (sub_1) {
+                count = 0;
+                worker = sub_1;
+                while (count < step_len && worker) {
+                    count++;
+                    sub_1_tail = worker;
+                    worker = worker->next;
                 }
+                sub_2 = worker;
+                if (!sub_2) {
+                    break;
+                }
+
+                sub_1_tail->next = NULL; // cut sequence 1
+
+                count = 0;
+                while (count < step_len && worker) {
+                    count++;
+                    sub_2_tail = worker;
+                    worker = worker->next;
+                }
+                sub_2_tail->next = NULL;  // cut sequence 2
+
+                // worker is the next
+
+                // merge
+                ListNode *tail = pre;
+                while (sub_1 && sub_2) {
+                    if (sub_1->val < sub_2->val) {
+                        tail->next = sub_1;
+                        sub_1 = sub_1->next;
+                    } else {
+                        tail->next = sub_2;
+                        sub_2 = sub_2->next;
+                    }
+                    tail = tail->next;
+                }
+                while (sub_1) {
+                    tail->next = sub_1;
+                    sub_1 = sub_1->next;
+                    tail = tail->next;
+                }
+                while (sub_2) {
+                    tail->next = sub_2;
+                    sub_2 = sub_2->next;
+                    tail = tail->next;
+                }
+
+                // prepare for the next two sub sequences
+                sub_1 = worker;
+                tail->next = worker;
+                pre = tail;   
             }
-            if (sub_list_ptr.size() % 2) {
-                sub_list_ptr.resize((sub_list_ptr.size() + 1) >> 1);
-            } else {
-                sub_list_ptr.resize(sub_list_ptr.size() >> 1);
-            }
+
+            // next iteration step
+            head = dummy_head.next;
+            step_len <<= 1;
         }
 
-        return sub_list_ptr[0];
+        return dummy_head.next;
     }
 
     ListNode *merge_top_down(ListNode *head) {
@@ -175,15 +203,11 @@ public:
             }
             slow = slow->next;
         }
-        while (head) {
+        if (head) {
             slow->next = head;
-            head = head->next;
-            slow = slow->next;
         }
-        while (fast) {
+        if (fast) {
             slow->next = fast;
-            fast = fast->next;
-            slow = slow->next;
         }
 
         slow = new_head->next; // slow re-used as new head
