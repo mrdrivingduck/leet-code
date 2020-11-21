@@ -50,6 +50,7 @@ make clean
 | 134   | Gas Station                                    | Medium     | [C++](134.GasStation.cpp) |
 | 138   | Copy List with Random Pointer                  | Medium     | [C++](Offer35.CopyListWithRandomPointer.cpp) |
 | 147   | Insertion Sort List                            | Medium     | [C++](147.InsertionSortList.cpp) |
+| 148   | Sort List                                      | Medium     | [C++](148.SortList.cpp) |
 | 283   | Move Zeroes                                    | Simple     | [C++](283.MoveZeroes.cpp) |
 | 297   | Serialize and Deserialize Binary Tree          | Hard       | [C++](Offer37.SerializeAndDeserializeBinaryTree.cpp) |
 | 328   | Odd Even Linked List                           | Medium     | [C++](328.OddEvenLinkedList.cpp) |
