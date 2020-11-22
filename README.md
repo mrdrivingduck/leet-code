@@ -52,6 +52,7 @@ make clean
 | 147   | Insertion Sort List                            | Medium     | [C++](147.InsertionSortList.cpp) |
 | 148   | Sort List                                      | Medium     | [C++](148.SortList.cpp) |
 | 283   | Move Zeroes                                    | Simple     | [C++](283.MoveZeroes.cpp) |
+| 295   | Find Median from Data Stream                   | Hard       | [C++](Offer41.FindMedianFromDataStream.cpp) |
 | 297   | Serialize and Deserialize Binary Tree          | Hard       | [C++](Offer37.SerializeAndDeserializeBinaryTree.cpp) |
 | 328   | Odd Even Linked List                           | Medium     | [C++](328.OddEvenLinkedList.cpp) |
 | 402   | Remove K Digits                                | Medium     | [C++](402.RemoveKDigits.cpp) |
@@ -75,6 +76,7 @@ make clean
 | 36    | 剑指 Offer 36. 二叉搜索树与双向链表               | Medium     | [C++](Offer36.ConvertBinarySearchTreeToSortedDoublyLinkedList.cpp) |
 | 37    | 剑指 Offer 37. 序列化二叉树                      | Hard       | [C++](Offer37.SerializeAndDeserializeBinaryTree.cpp) |
 | 38    | 剑指 Offer 38. 字符串的排列  LCOF                | Medium     | [C++](Offer38.StringPermutation.cpp) |
+| 41    | 剑指 Offer 41. 数据流中的中位数                   | Hard     | [C++](Offer41.FindMedianFromDataStream.cpp) |
 
 ---
 

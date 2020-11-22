@@ -28,12 +28,10 @@
 #include <iostream>
 #include <string>
 #include <vector>
-#include <set>
 
 using std::cout;
 using std::endl;
 using std::vector;
-using std::set;
 using std::string;
 
 class Solution {
