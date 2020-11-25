@@ -63,6 +63,7 @@ make clean
 | 973   | K Closest Points to Origin                     | Medium     | [C++](973.KClosestPointsToOrigin.cpp) |
 | 1030  | Matrix Cells in Distance Order                 | Simple     | [C++](1030.MatrixCellsInDistanceOrder.cpp) |
 | 1122  | Relative Sort Array                            | Simple     | [C++](1122.RelativeSortArray.cpp) |
+| 1370  | Increasing Decreasing String                   | Simple     | [C++](1370.IncreasingDecreasingString.cpp) |
 
 ## 剑指 Offer
 
