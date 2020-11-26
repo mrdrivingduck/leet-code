@@ -51,6 +51,7 @@ make clean
 | 138   | Copy List with Random Pointer                  | Medium     | [C++](Offer35.CopyListWithRandomPointer.cpp) |
 | 147   | Insertion Sort List                            | Medium     | [C++](147.InsertionSortList.cpp) |
 | 148   | Sort List                                      | Medium     | [C++](148.SortList.cpp) |
+| 164   | Maximum Gap                                    | Hard       | [C++](164.MaximumGap.cpp) |
 | 222   | Count Complete Tree Nodes                      | Medium     | [C++](222.CountCompleteTreeNodes.cpp) |
 | 283   | Move Zeroes                                    | Easy       | [C++](283.MoveZeroes.cpp) |
 | 295   | Find Median from Data Stream                   | Hard       | [C++](Offer41.FindMedianFromDataStream.cpp) |
