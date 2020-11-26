@@ -52,18 +52,18 @@ make clean
 | 147   | Insertion Sort List                            | Medium     | [C++](147.InsertionSortList.cpp) |
 | 148   | Sort List                                      | Medium     | [C++](148.SortList.cpp) |
 | 222   | Count Complete Tree Nodes                      | Medium     | [C++](222.CountCompleteTreeNodes.cpp) |
-| 283   | Move Zeroes                                    | Simple     | [C++](283.MoveZeroes.cpp) |
+| 283   | Move Zeroes                                    | Easy       | [C++](283.MoveZeroes.cpp) |
 | 295   | Find Median from Data Stream                   | Hard       | [C++](Offer41.FindMedianFromDataStream.cpp) |
 | 297   | Serialize and Deserialize Binary Tree          | Hard       | [C++](Offer37.SerializeAndDeserializeBinaryTree.cpp) |
 | 328   | Odd Even Linked List                           | Medium     | [C++](328.OddEvenLinkedList.cpp) |
 | 402   | Remove K Digits                                | Medium     | [C++](402.RemoveKDigits.cpp) |
 | 452   | Minimum Number of Arrows to Burst Balloons     | Medium     | [C++](452.MinimumNumberOfArrowsToBurstBalloons.cpp) |
-| 922   | Sort Array By Parity II                        | Simple     | [C++](922.SortArrayByParityII.cpp) |
+| 922   | Sort Array By Parity II                        | Easy       | [C++](922.SortArrayByParityII.cpp) |
 | 946   | Validate Stack Sequences                       | Medium     | [C++](Offer31.ValidateStackSequences.cpp) |
 | 973   | K Closest Points to Origin                     | Medium     | [C++](973.KClosestPointsToOrigin.cpp) |
-| 1030  | Matrix Cells in Distance Order                 | Simple     | [C++](1030.MatrixCellsInDistanceOrder.cpp) |
-| 1122  | Relative Sort Array                            | Simple     | [C++](1122.RelativeSortArray.cpp) |
-| 1370  | Increasing Decreasing String                   | Simple     | [C++](1370.IncreasingDecreasingString.cpp) |
+| 1030  | Matrix Cells in Distance Order                 | Easy       | [C++](1030.MatrixCellsInDistanceOrder.cpp) |
+| 1122  | Relative Sort Array                            | Easy       | [C++](1122.RelativeSortArray.cpp) |
+| 1370  | Increasing Decreasing String                   | Easy       | [C++](1370.IncreasingDecreasingString.cpp) |
 
 ## 剑指 Offer
 
