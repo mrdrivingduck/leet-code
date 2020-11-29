@@ -63,6 +63,7 @@ make clean
 | 922   | Sort Array By Parity II                        | Easy       | [C++](922.SortArrayByParityII.cpp) |
 | 946   | Validate Stack Sequences                       | Medium     | [C++](Offer31.ValidateStackSequences.cpp) |
 | 973   | K Closest Points to Origin                     | Medium     | [C++](973.KClosestPointsToOrigin.cpp) |
+| 976   | Largest Perimeter Triangle                     | Easy       | [C++](976.LargestPerimeterTriangle.cpp) |
 | 1030  | Matrix Cells in Distance Order                 | Easy       | [C++](1030.MatrixCellsInDistanceOrder.cpp) |
 | 1122  | Relative Sort Array                            | Easy       | [C++](1122.RelativeSortArray.cpp) |
 | 1370  | Increasing Decreasing String                   | Easy       | [C++](1370.IncreasingDecreasingString.cpp) |
