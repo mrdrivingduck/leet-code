@@ -43,7 +43,8 @@ make clean
 | 16    | 3Sum Closest                                   | Medium     | [C++](16.3SumClosest.cpp) |
 | 17    | Letter Combinations of a Phone Number          | Medium     | [C++](17.LetterCombinationsOfAPhoneNumber.cpp) |
 | 18    | 4Sum                                           | Medium     | [C++](18.4Sum.cpp) |
-| 31    | NextPermutation                                | Medium     | [C++](31.NextPermutation.cpp) |
+| 31    | Next Permutation                               | Medium     | [C++](31.NextPermutation.cpp) |
+| 34    | Find First and Last Position of Element in Sorted Array | Medium | [C++](34.FindFirstAndLastPositionOfElementInSortedArray.cpp) |
 | 50    | Pow(x, n)                                      | Medium     | [C++](Offer16.MyPow.cpp) |
 | 79    | Word Search                                    | Medium     | [C++](79.WordSearch.cpp) |
 | 105   | Construct Binary Tree from Preorder and Inorder Traversal   | Medium     | [C++](Offer07.ConstructBinaryTreeFromPreorderAndInorderTraversal.cpp) |
