@@ -53,6 +53,7 @@ make clean
 | 147   | Insertion Sort List                            | Medium     | [C++](147.InsertionSortList.cpp) |
 | 148   | Sort List                                      | Medium     | [C++](148.SortList.cpp) |
 | 164   | Maximum Gap                                    | Hard       | [C++](164.MaximumGap.cpp) |
+| 204   | Count Primes                                   | Easy       | [C++](204.CountPrimes.cpp) |
 | 222   | Count Complete Tree Nodes                      | Medium     | [C++](222.CountCompleteTreeNodes.cpp) |
 | 283   | Move Zeroes                                    | Easy       | [C++](283.MoveZeroes.cpp) |
 | 295   | Find Median from Data Stream                   | Hard       | [C++](Offer41.FindMedianFromDataStream.cpp) |
@@ -86,6 +87,7 @@ make clean
 | 37    | 剑指 Offer 37. 序列化二叉树                      | Hard       | [C++](Offer37.SerializeAndDeserializeBinaryTree.cpp) |
 | 38    | 剑指 Offer 38. 字符串的排列  LCOF                | Medium     | [C++](Offer38.StringPermutation.cpp) |
 | 41    | 剑指 Offer 41. 数据流中的中位数                   | Hard     | [C++](Offer41.FindMedianFromDataStream.cpp) |
+| 45    | 剑指 Offer 45. 把数组排成最小的数                 | Medium     | [C++](Offer45.SortArrayToMinimum.cpp) |
 
 ---
 
