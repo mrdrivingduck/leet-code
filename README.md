@@ -48,6 +48,7 @@ make clean
 | 50    | Pow(x, n)                                      | Medium     | [C++](Offer16.MyPow.cpp) |
 | 79    | Word Search                                    | Medium     | [C++](79.WordSearch.cpp) |
 | 105   | Construct Binary Tree from Preorder and Inorder Traversal   | Medium     | [C++](Offer07.ConstructBinaryTreeFromPreorderAndInorderTraversal.cpp) |
+| 118   | Pascal's Triangle                              | Easy       | [C++](118.PascalsTriangle.cpp) |
 | 134   | Gas Station                                    | Medium     | [C++](134.GasStation.cpp) |
 | 138   | Copy List with Random Pointer                  | Medium     | [C++](Offer35.CopyListWithRandomPointer.cpp) |
 | 147   | Insertion Sort List                            | Medium     | [C++](147.InsertionSortList.cpp) |
