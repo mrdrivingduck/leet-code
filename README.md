@@ -66,6 +66,7 @@ make clean
 | 454   | 4Sum II                                        | Medium     | [C++](454.4SumII.cpp) |
 | 621   | Task Scheduler                                 | Medium     | [C++](621.TaskScheduler.cpp) |
 | 767   | Reorganize String                              | Medium     | [C++](767.ReorganizeString.cpp) |
+| 842   | Split Array into Fibonacci Sequence            | Medium     | [C++](842.SplitArrayIntoFibonacciSequence.cpp) |
 | 861   | Score After Flipping Matrix                    | Medium     | [C++](861.ScoreAfterFlippingMatrix.cpp) |
 | 922   | Sort Array By Parity II                        | Easy       | [C++](922.SortArrayByParityII.cpp) |
 | 946   | Validate Stack Sequences                       | Medium     | [C++](Offer31.ValidateStackSequences.cpp) |
