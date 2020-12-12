@@ -62,6 +62,7 @@ make clean
 | 297   | Serialize and Deserialize Binary Tree          | Hard       | [C++](Offer37.SerializeAndDeserializeBinaryTree.cpp) |
 | 321   | Create Maximum Number                          | Hard       | [C++](321.CreateMaximumNumber.cpp) |
 | 328   | Odd Even Linked List                           | Medium     | [C++](328.OddEvenLinkedList.cpp) |
+| 376   | Wiggle Subsequence                             | Medium     | [C++](376.WiggleSubsequence.cpp) |
 | 402   | Remove K Digits                                | Medium     | [C++](402.RemoveKDigits.cpp) |
 | 452   | Minimum Number of Arrows to Burst Balloons     | Medium     | [C++](452.MinimumNumberOfArrowsToBurstBalloons.cpp) |
 | 454   | 4Sum II                                        | Medium     | [C++](454.4SumII.cpp) |
