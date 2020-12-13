@@ -56,6 +56,7 @@ make clean
 | 148   | Sort List                                      | Medium     | [C++](148.SortList.cpp) |
 | 164   | Maximum Gap                                    | Hard       | [C++](164.MaximumGap.cpp) |
 | 204   | Count Primes                                   | Easy       | [C++](204.CountPrimes.cpp) |
+| 217   | Contains Duplicate                             | Easy       | [C++](217.ContainsDuplicate.cpp) |
 | 222   | Count Complete Tree Nodes                      | Medium     | [C++](222.CountCompleteTreeNodes.cpp) |
 | 283   | Move Zeroes                                    | Easy       | [C++](283.MoveZeroes.cpp) |
 | 295   | Find Median from Data Stream                   | Hard       | [C++](Offer41.FindMedianFromDataStream.cpp) |
