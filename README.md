@@ -45,6 +45,7 @@ make clean
 | 18    | 4Sum                                           | Medium     | [C++](18.4Sum.cpp) |
 | 31    | Next Permutation                               | Medium     | [C++](31.NextPermutation.cpp) |
 | 34    | Find First and Last Position of Element in Sorted Array | Medium | [C++](34.FindFirstAndLastPositionOfElementInSortedArray.cpp) |
+| 49    | Group Anagrams                                 | Medium     | [C++](49.GroupAnagrams.cpp) |
 | 50    | Pow(x, n)                                      | Medium     | [C++](Offer16.MyPow.cpp) |
 | 62    | Unique Paths                                   | Medium     | [C++](62.UniquePaths.cpp) |
 | 79    | Word Search                                    | Medium     | [C++](79.WordSearch.cpp) |
