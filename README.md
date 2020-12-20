@@ -64,6 +64,7 @@ make clean
 | 290   | Word Pattern                                   | Easy       | [C++](290.WordPattern.cpp) |
 | 295   | Find Median from Data Stream                   | Hard       | [C++](Offer41.FindMedianFromDataStream.cpp) |
 | 297   | Serialize and Deserialize Binary Tree          | Hard       | [C++](Offer37.SerializeAndDeserializeBinaryTree.cpp) |
+| 316   | Remove Duplicate Letters                       | Medium     | [C++](316.RemoveDuplicateLetters.cpp) |
 | 321   | Create Maximum Number                          | Hard       | [C++](321.CreateMaximumNumber.cpp) |
 | 328   | Odd Even Linked List                           | Medium     | [C++](328.OddEvenLinkedList.cpp) |
 | 376   | Wiggle Subsequence                             | Medium     | [C++](376.WiggleSubsequence.cpp) |
@@ -84,6 +85,7 @@ make clean
 | 973   | K Closest Points to Origin                     | Medium     | [C++](973.KClosestPointsToOrigin.cpp) |
 | 976   | Largest Perimeter Triangle                     | Easy       | [C++](976.LargestPerimeterTriangle.cpp) |
 | 1030  | Matrix Cells in Distance Order                 | Easy       | [C++](1030.MatrixCellsInDistanceOrder.cpp) |
+| 1081  | Smallest Subsequence of Distinct Characters    | Medium     | [C++](316.RemoveDuplicateLetters.cpp) |
 | 1122  | Relative Sort Array                            | Easy       | [C++](1122.RelativeSortArray.cpp) |
 | 1370  | Increasing Decreasing String                   | Easy       | [C++](1370.IncreasingDecreasingString.cpp) |
 
