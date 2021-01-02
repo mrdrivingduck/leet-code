@@ -64,6 +64,7 @@ make clean
 | 205   | Isomorphic Strings                             | Easy       | [C++](205.IsomorphicStrings.cpp) |
 | 217   | Contains Duplicate                             | Easy       | [C++](217.ContainsDuplicate.cpp) |
 | 222   | Count Complete Tree Nodes                      | Medium     | [C++](222.CountCompleteTreeNodes.cpp) |
+| 239   | Sliding Window Maximum                         | Hard       | [C++](239.SlidingWindowMaximum.cpp) |
 | 283   | Move Zeroes                                    | Easy       | [C++](283.MoveZeroes.cpp) |
 | 290   | Word Pattern                                   | Easy       | [C++](290.WordPattern.cpp) |
 | 295   | Find Median from Data Stream                   | Hard       | [C++](Offer41.FindMedianFromDataStream.cpp) |
