@@ -51,6 +51,7 @@ make clean
 | 62    | Unique Paths                                   | Medium     | [C++](62.UniquePaths.cpp) |
 | 79    | Word Search                                    | Medium     | [C++](79.WordSearch.cpp) |
 | 85    | Maximal Rectangle                              | Hard       | [C++](85.MaximalRectangle.cpp) |
+| 86    | Partition List                                 | Medium     | [C++](86.PartitionList.cpp) |
 | 103   | Binary Tree Zigzag Level Order Traversal       | Medium     | [C++](103.BinaryTreeZigzagLevelOrderTraversal.cpp) |
 | 105   | Construct Binary Tree from Preorder and Inorder Traversal   | Medium     | [C++](Offer07.ConstructBinaryTreeFromPreorderAndInorderTraversal.cpp) |
 | 118   | Pascal's Triangle                              | Easy       | [C++](118.PascalsTriangle.cpp) |
