@@ -81,6 +81,7 @@ make clean
 | 452   | Minimum Number of Arrows to Burst Balloons     | Medium     | [C++](452.MinimumNumberOfArrowsToBurstBalloons.cpp) |
 | 454   | 4Sum II                                        | Medium     | [C++](454.4SumII.cpp) |
 | 455   | Assign Cookies                                 | Easy       | [C++](455.AssignCookies.cpp) |
+| 547   | Number of Provinces                            | Medium     | [C++](547.NumberOfProvinces.cpp) |
 | 605   | Can Place Flowers                              | Easy       | [C++](605.CanPlaceFlowers.cpp) |
 | 621   | Task Scheduler                                 | Medium     | [C++](621.TaskScheduler.cpp) |
 | 649   | Dota2 Senate                                   | Medium     | [C++](649.Dota2Senate.cpp) |
