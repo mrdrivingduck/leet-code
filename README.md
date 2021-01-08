@@ -61,6 +61,7 @@ make clean
 | 147   | Insertion Sort List                            | Medium     | [C++](147.InsertionSortList.cpp) |
 | 148   | Sort List                                      | Medium     | [C++](148.SortList.cpp) |
 | 164   | Maximum Gap                                    | Hard       | [C++](164.MaximumGap.cpp) |
+| 189   | Rotate Array                                   | Medium     | [C++](189.RotateArray.cpp) |
 | 204   | Count Primes                                   | Easy       | [C++](204.CountPrimes.cpp) |
 | 205   | Isomorphic Strings                             | Easy       | [C++](205.IsomorphicStrings.cpp) |
 | 217   | Contains Duplicate                             | Easy       | [C++](217.ContainsDuplicate.cpp) |
