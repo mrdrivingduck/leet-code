@@ -118,8 +118,9 @@ make clean
 | 36    | 剑指 Offer 36. 二叉搜索树与双向链表               | Medium     | [C++](Offer36.ConvertBinarySearchTreeToSortedDoublyLinkedList.cpp) |
 | 37    | 剑指 Offer 37. 序列化二叉树                      | Hard       | [C++](Offer37.SerializeAndDeserializeBinaryTree.cpp) |
 | 38    | 剑指 Offer 38. 字符串的排列  LCOF                | Medium     | [C++](Offer38.StringPermutation.cpp) |
-| 41    | 剑指 Offer 41. 数据流中的中位数                   | Hard     | [C++](Offer41.FindMedianFromDataStream.cpp) |
+| 41    | 剑指 Offer 41. 数据流中的中位数                   | Hard      | [C++](Offer41.FindMedianFromDataStream.cpp) |
 | 45    | 剑指 Offer 45. 把数组排成最小的数                 | Medium     | [C++](Offer45.SortArrayToMinimum.cpp) |
+| 46    | 剑指 Offer 46. 把数字翻译成字符串                 | Medium     | [C++](Offer46.TranslateDigits.cpp) |
 
 ---
 
