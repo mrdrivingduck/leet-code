@@ -123,6 +123,7 @@ make clean
 | 41    | 剑指 Offer 41. 数据流中的中位数                   | Hard      | [C++](Offer41.FindMedianFromDataStream.cpp) |
 | 45    | 剑指 Offer 45. 把数组排成最小的数                 | Medium     | [C++](Offer45.SortArrayToMinimum.cpp) |
 | 46    | 剑指 Offer 46. 把数字翻译成字符串                 | Medium     | [C++](Offer46.TranslateDigits.cpp) |
+| 46    | 剑指 Offer 47. 礼物的最大价值                     | Medium     | [C++](Offer47.MaximumValueGift.cpp) |
 
 ---
 
