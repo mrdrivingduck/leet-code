@@ -87,6 +87,7 @@ make clean
 | 605   | Can Place Flowers                              | Easy       | [C++](605.CanPlaceFlowers.cpp) |
 | 621   | Task Scheduler                                 | Medium     | [C++](621.TaskScheduler.cpp) |
 | 649   | Dota2 Senate                                   | Medium     | [C++](649.Dota2Senate.cpp) |
+| 684   | Redundant Connection                           | Medium     | [C++](684.RedundantConnection.cpp) |
 | 714   | Best Time to Buy and Sell Stock with Transaction Fee | Medium     | [C++](714.BestTimeToBuyAndSellStockWithTransactionFee.cpp) |
 | 738   | Monotone Increasing Digits                     | Medium     | [C++](738.MonotoneIncreasingDigits.cpp) |
 | 746   | Min Cost Climbing Stairs                       | Easy       | [C++](746.MinCostClimbingStairs.cpp) |
