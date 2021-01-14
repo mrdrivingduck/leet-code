@@ -100,6 +100,7 @@ make clean
 | 946   | Validate Stack Sequences                       | Medium     | [C++](Offer31.ValidateStackSequences.cpp) |
 | 973   | K Closest Points to Origin                     | Medium     | [C++](973.KClosestPointsToOrigin.cpp) |
 | 976   | Largest Perimeter Triangle                     | Easy       | [C++](976.LargestPerimeterTriangle.cpp) |
+| 1018  | Binary Prefix Divisible By 5                   | Easy       | [C++](1018.BinaryPrefixDivisibleBy5.cpp) |
 | 1030  | Matrix Cells in Distance Order                 | Easy       | [C++](1030.MatrixCellsInDistanceOrder.cpp) |
 | 1046  | Last Stone Weight                              | Easy       | [C++](1046.LastStoneWeight.cpp) |
 | 1081  | Smallest Subsequence of Distinct Characters    | Medium     | [C++](316.RemoveDuplicateLetters.cpp) |
