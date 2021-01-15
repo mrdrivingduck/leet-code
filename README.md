@@ -98,6 +98,7 @@ make clean
 | 861   | Score After Flipping Matrix                    | Medium     | [C++](861.ScoreAfterFlippingMatrix.cpp) |
 | 922   | Sort Array By Parity II                        | Easy       | [C++](922.SortArrayByParityII.cpp) |
 | 946   | Validate Stack Sequences                       | Medium     | [C++](Offer31.ValidateStackSequences.cpp) |
+| 947   | Most Stones Removed with Same Row or Column    | Medium     | [C++](947.MostStonesRemovedWithSameRowOrColumn.cpp) |
 | 973   | K Closest Points to Origin                     | Medium     | [C++](973.KClosestPointsToOrigin.cpp) |
 | 976   | Largest Perimeter Triangle                     | Easy       | [C++](976.LargestPerimeterTriangle.cpp) |
 | 1018  | Binary Prefix Divisible By 5                   | Easy       | [C++](1018.BinaryPrefixDivisibleBy5.cpp) |
