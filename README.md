@@ -107,6 +107,7 @@ make clean
 | 1081  | Smallest Subsequence of Distinct Characters    | Medium     | [C++](316.RemoveDuplicateLetters.cpp) |
 | 1122  | Relative Sort Array                            | Easy       | [C++](1122.RelativeSortArray.cpp) |
 | 1202  | Smallest String With Swaps                     | Medium     | [C++](1202.SmallestStringWithSwaps.cpp) |
+| 1232  | Check If It Is a Straight Line                 | Easy       | [C++](1232.CheckIfItIsAStraightLine.cpp) |
 | 1370  | Increasing Decreasing String                   | Easy       | [C++](1370.IncreasingDecreasingString.cpp) |
 
 ## 剑指 Offer
