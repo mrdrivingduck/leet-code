@@ -110,6 +110,7 @@ make clean
 | 1202  | Smallest String With Swaps                     | Medium     | [C++](1202.SmallestStringWithSwaps.cpp) |
 | 1232  | Check If It Is a Straight Line                 | Easy       | [C++](1232.CheckIfItIsAStraightLine.cpp) |
 | 1370  | Increasing Decreasing String                   | Easy       | [C++](1370.IncreasingDecreasingString.cpp) |
+| 1584  | Min Cost to Connect All Points                 | Medium     | [C++](1584.MinCostToConnectAllPoints.cpp) |
 
 ## 剑指 Offer
 
