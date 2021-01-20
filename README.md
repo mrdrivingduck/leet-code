@@ -86,6 +86,7 @@ make clean
 | 547   | Number of Provinces                            | Medium     | [C++](547.NumberOfProvinces.cpp) |
 | 605   | Can Place Flowers                              | Easy       | [C++](605.CanPlaceFlowers.cpp) |
 | 621   | Task Scheduler                                 | Medium     | [C++](621.TaskScheduler.cpp) |
+| 628   | Maximum Product of Three Numbers               | Easy       | [C++](628.MaximumProductOfThreeNumbers.cpp) |
 | 649   | Dota2 Senate                                   | Medium     | [C++](649.Dota2Senate.cpp) |
 | 684   | Redundant Connection                           | Medium     | [C++](684.RedundantConnection.cpp) |
 | 714   | Best Time to Buy and Sell Stock with Transaction Fee | Medium     | [C++](714.BestTimeToBuyAndSellStockWithTransactionFee.cpp) |
