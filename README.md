@@ -68,6 +68,7 @@ make clean
 | 222   | Count Complete Tree Nodes                      | Medium     | [C++](222.CountCompleteTreeNodes.cpp) |
 | 228   | Summary Ranges                                 | Easy       | [C++](228.SummaryRanges.cpp) |
 | 239   | Sliding Window Maximum                         | Hard       | [C++](239.SlidingWindowMaximum.cpp) |
+| 264   | Ugly Number II                                 | Medium     | [C++](Offer49.UglyNumber.cpp) |
 | 283   | Move Zeroes                                    | Easy       | [C++](283.MoveZeroes.cpp) |
 | 290   | Word Pattern                                   | Easy       | [C++](290.WordPattern.cpp) |
 | 295   | Find Median from Data Stream                   | Hard       | [C++](Offer41.FindMedianFromDataStream.cpp) |
@@ -132,6 +133,7 @@ make clean
 | 46    | 剑指 Offer 46. 把数字翻译成字符串                 | Medium     | [C++](Offer46.TranslateDigits.cpp) |
 | 47    | 剑指 Offer 47. 礼物的最大价值                     | Medium     | [C++](Offer47.MaximumValueGift.cpp) |
 | 48    | 剑指 Offer 48. 最长不含重复字符的子字符串          | Medium     | [C++](Offer48.LongestSubstringWithoutRepeatingCharacters.cpp) |
+| 49    | 剑指 Offer 49. 丑数                             | Medium     | [C++](Offer49.UglyNumber.cpp) |
 
 ---
 
