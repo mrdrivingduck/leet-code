@@ -89,6 +89,7 @@ make clean
 | 621   | Task Scheduler                                 | Medium     | [C++](621.TaskScheduler.cpp) |
 | 628   | Maximum Product of Three Numbers               | Easy       | [C++](628.MaximumProductOfThreeNumbers.cpp) |
 | 649   | Dota2 Senate                                   | Medium     | [C++](649.Dota2Senate.cpp) |
+| 674   | Longest Continuous Increasing Subsequence      | Easy       | [C++](674.LongestContinuousIncreasingSubsequence.cpp) |
 | 684   | Redundant Connection                           | Medium     | [C++](684.RedundantConnection.cpp) |
 | 714   | Best Time to Buy and Sell Stock with Transaction Fee | Medium     | [C++](714.BestTimeToBuyAndSellStockWithTransactionFee.cpp) |
 | 721   | Accounts Merge                                 | Medium     | [C++](721.AccountsMerge.cpp) |
@@ -112,6 +113,7 @@ make clean
 | 1122  | Relative Sort Array                            | Easy       | [C++](1122.RelativeSortArray.cpp) |
 | 1202  | Smallest String With Swaps                     | Medium     | [C++](1202.SmallestStringWithSwaps.cpp) |
 | 1232  | Check If It Is a Straight Line                 | Easy       | [C++](1232.CheckIfItIsAStraightLine.cpp) |
+| 1319  | Number of Operations to Make Network Connected | Medium     | [C++](1319.NumberOfOperationsToMakeNetworkConnected.cpp) |
 | 1370  | Increasing Decreasing String                   | Easy       | [C++](1370.IncreasingDecreasingString.cpp) |
 | 1584  | Min Cost to Connect All Points                 | Medium     | [C++](1584.MinCostToConnectAllPoints.cpp) |
 
