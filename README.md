@@ -114,6 +114,7 @@ make clean
 | 1128  | Number of Equivalent Domino Pairs              | Easy       | [C++](1128.NumberOfEquivalentDominoPairs.cpp) |
 | 1202  | Smallest String With Swaps                     | Medium     | [C++](1202.SmallestStringWithSwaps.cpp) |
 | 1232  | Check If It Is a Straight Line                 | Easy       | [C++](1232.CheckIfItIsAStraightLine.cpp) |
+| 1300  | Sum of Mutated Array Closest to Target         | Medium     | [C++](1300.SumOfMutatedArrayClosestToTarget.cpp) |
 | 1319  | Number of Operations to Make Network Connected | Medium     | [C++](1319.NumberOfOperationsToMakeNetworkConnected.cpp) |
 | 1370  | Increasing Decreasing String                   | Easy       | [C++](1370.IncreasingDecreasingString.cpp) |
 | 1584  | Min Cost to Connect All Points                 | Medium     | [C++](1584.MinCostToConnectAllPoints.cpp) |
