@@ -93,6 +93,7 @@ make clean
 | 684   | Redundant Connection                           | Medium     | [C++](684.RedundantConnection.cpp) |
 | 714   | Best Time to Buy and Sell Stock with Transaction Fee | Medium     | [C++](714.BestTimeToBuyAndSellStockWithTransactionFee.cpp) |
 | 721   | Accounts Merge                                 | Medium     | [C++](721.AccountsMerge.cpp) |
+| 724   | Find Pivot Index                               | Easy       | [C++](724.FindPivotIndex.cpp) |
 | 738   | Monotone Increasing Digits                     | Medium     | [C++](738.MonotoneIncreasingDigits.cpp) |
 | 746   | Min Cost Climbing Stairs                       | Easy       | [C++](746.MinCostClimbingStairs.cpp) |
 | 767   | Reorganize String                              | Medium     | [C++](767.ReorganizeString.cpp) |
