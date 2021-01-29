@@ -140,6 +140,7 @@ make clean
 | 47    | 剑指 Offer 47. 礼物的最大价值                     | Medium     | [C++](Offer47.MaximumValueGift.cpp) |
 | 48    | 剑指 Offer 48. 最长不含重复字符的子字符串          | Medium     | [C++](Offer48.LongestSubstringWithoutRepeatingCharacters.cpp) |
 | 49    | 剑指 Offer 49. 丑数                             | Medium     | [C++](Offer49.UglyNumber.cpp) |
+| 51    | 剑指 Offer 51. 数组中的逆序对                     | Hard      | [C++](Offer51.ReversePair.cpp) |
 
 ---
 
