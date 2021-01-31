@@ -98,6 +98,7 @@ make clean
 | 746   | Min Cost Climbing Stairs                       | Easy       | [C++](746.MinCostClimbingStairs.cpp) |
 | 767   | Reorganize String                              | Medium     | [C++](767.ReorganizeString.cpp) |
 | 830   | Positions of Large Groups                      | Easy       | [C++](830.PositionsOfLargeGroups.cpp) |
+| 839   | Similar String Groups                          | Hard       | [C++](839.SimilarStringGroups.cpp) |
 | 842   | Split Array into Fibonacci Sequence            | Medium     | [C++](842.SplitArrayIntoFibonacciSequence.cpp) |
 | 860   | Lemonade Change                                | Easy       | [C++](860.LemonadeChange.cpp) |
 | 861   | Score After Flipping Matrix                    | Medium     | [C++](861.ScoreAfterFlippingMatrix.cpp) |
