@@ -80,6 +80,7 @@ make clean
 | 387   | First Unique Character in a String             | Easy       | [C++](387.FirstUniqueCharacterInAString.cpp) |
 | 389   | Find the Difference                            | Easy       | [C++](389.FindTheDifference.cpp) |
 | 402   | Remove K Digits                                | Medium     | [C++](402.RemoveKDigits.cpp) |
+| 424   | Longest Repeating Character Replacement        | Medium     | [C++](424.LongestRepeatingCharacterReplacement.cpp) |
 | 435   | Non-overlapping Intervals                      | Medium     | [C++](435.NonOverlappingIntervals.cpp) |
 | 452   | Minimum Number of Arrows to Burst Balloons     | Medium     | [C++](452.MinimumNumberOfArrowsToBurstBalloons.cpp) |
 | 454   | 4Sum II                                        | Medium     | [C++](454.4SumII.cpp) |
