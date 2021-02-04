@@ -90,6 +90,7 @@ make clean
 | 605   | Can Place Flowers                              | Easy       | [C++](605.CanPlaceFlowers.cpp) |
 | 621   | Task Scheduler                                 | Medium     | [C++](621.TaskScheduler.cpp) |
 | 628   | Maximum Product of Three Numbers               | Easy       | [C++](628.MaximumProductOfThreeNumbers.cpp) |
+| 643   | Maximum Average Subarray I                     | Easy       | [C++](643.MaximumAverageSubarrayI.cpp) |
 | 649   | Dota2 Senate                                   | Medium     | [C++](649.Dota2Senate.cpp) |
 | 674   | Longest Continuous Increasing Subsequence      | Easy       | [C++](674.LongestContinuousIncreasingSubsequence.cpp) |
 | 684   | Redundant Connection                           | Medium     | [C++](684.RedundantConnection.cpp) |
