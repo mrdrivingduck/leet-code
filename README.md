@@ -119,6 +119,7 @@ make clean
 | 1122  | Relative Sort Array                            | Easy       | [C++](1122.RelativeSortArray.cpp) |
 | 1128  | Number of Equivalent Domino Pairs              | Easy       | [C++](1128.NumberOfEquivalentDominoPairs.cpp) |
 | 1202  | Smallest String With Swaps                     | Medium     | [C++](1202.SmallestStringWithSwaps.cpp) |
+| 1208  | Get Equal Substrings Within Budget             | Medium     | [C++](1208.GetEqualSubstringsWithinBudget.cpp) |
 | 1232  | Check If It Is a Straight Line                 | Easy       | [C++](1232.CheckIfItIsAStraightLine.cpp) |
 | 1300  | Sum of Mutated Array Closest to Target         | Medium     | [C++](1300.SumOfMutatedArrayClosestToTarget.cpp) |
 | 1319  | Number of Operations to Make Network Connected | Medium     | [C++](1319.NumberOfOperationsToMakeNetworkConnected.cpp) |
