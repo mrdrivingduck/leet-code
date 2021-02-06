@@ -124,6 +124,7 @@ make clean
 | 1300  | Sum of Mutated Array Closest to Target         | Medium     | [C++](1300.SumOfMutatedArrayClosestToTarget.cpp) |
 | 1319  | Number of Operations to Make Network Connected | Medium     | [C++](1319.NumberOfOperationsToMakeNetworkConnected.cpp) |
 | 1370  | Increasing Decreasing String                   | Easy       | [C++](1370.IncreasingDecreasingString.cpp) |
+| 1423  | Maximum Points You Can Obtain from Cards       | Medium     | [C++](1423.MaximumPointsYouCanObtainFromCards.cpp) |
 | 1584  | Min Cost to Connect All Points                 | Medium     | [C++](1584.MinCostToConnectAllPoints.cpp) |
 
 ## 剑指 Offer
