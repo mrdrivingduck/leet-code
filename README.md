@@ -92,6 +92,7 @@ make clean
 | 628   | Maximum Product of Three Numbers               | Easy       | [C++](628.MaximumProductOfThreeNumbers.cpp) |
 | 643   | Maximum Average Subarray I                     | Easy       | [C++](643.MaximumAverageSubarrayI.cpp) |
 | 649   | Dota2 Senate                                   | Medium     | [C++](649.Dota2Senate.cpp) |
+| 665   | Non-decreasing Array                           | Easy       | [C++](665.NonDecreasingArray.cpp) |
 | 674   | Longest Continuous Increasing Subsequence      | Easy       | [C++](674.LongestContinuousIncreasingSubsequence.cpp) |
 | 684   | Redundant Connection                           | Medium     | [C++](684.RedundantConnection.cpp) |
 | 714   | Best Time to Buy and Sell Stock with Transaction Fee | Medium     | [C++](714.BestTimeToBuyAndSellStockWithTransactionFee.cpp) |
