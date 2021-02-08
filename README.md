@@ -112,6 +112,7 @@ make clean
 | 947   | Most Stones Removed with Same Row or Column    | Medium     | [C++](947.MostStonesRemovedWithSameRowOrColumn.cpp) |
 | 973   | K Closest Points to Origin                     | Medium     | [C++](973.KClosestPointsToOrigin.cpp) |
 | 976   | Largest Perimeter Triangle                     | Easy       | [C++](976.LargestPerimeterTriangle.cpp) |
+| 978   | Longest Turbulent Subarray                     | Medium     | [C++](978.LongestTurbulentSubarray.cpp) |
 | 989   | Add to Array-Form of Integer                   | Easy       | [C++](989.AddToArrayFormOfInteger.cpp) |
 | 1018  | Binary Prefix Divisible By 5                   | Easy       | [C++](1018.BinaryPrefixDivisibleBy5.cpp) |
 | 1030  | Matrix Cells in Distance Order                 | Easy       | [C++](1030.MatrixCellsInDistanceOrder.cpp) |
