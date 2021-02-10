@@ -87,6 +87,7 @@ make clean
 | 455   | Assign Cookies                                 | Easy       | [C++](455.AssignCookies.cpp) |
 | 480   | Sliding Window Median                          | Hard       | [C++](480.SlidingWindowMedian.cpp) |
 | 547   | Number of Provinces                            | Medium     | [C++](547.NumberOfProvinces.cpp) |
+| 567   | Permutation in String                          | Medium     | [C++](567.PermutationInString.cpp) |
 | 605   | Can Place Flowers                              | Easy       | [C++](605.CanPlaceFlowers.cpp) |
 | 621   | Task Scheduler                                 | Medium     | [C++](621.TaskScheduler.cpp) |
 | 628   | Maximum Product of Three Numbers               | Easy       | [C++](628.MaximumProductOfThreeNumbers.cpp) |
@@ -114,6 +115,7 @@ make clean
 | 976   | Largest Perimeter Triangle                     | Easy       | [C++](976.LargestPerimeterTriangle.cpp) |
 | 978   | Longest Turbulent Subarray                     | Medium     | [C++](978.LongestTurbulentSubarray.cpp) |
 | 989   | Add to Array-Form of Integer                   | Easy       | [C++](989.AddToArrayFormOfInteger.cpp) |
+| 992   | Subarrays with K Different Integers            | Hard       | [C++](992.SubarraysWithKDifferentIntegers.cpp) |
 | 1018  | Binary Prefix Divisible By 5                   | Easy       | [C++](1018.BinaryPrefixDivisibleBy5.cpp) |
 | 1030  | Matrix Cells in Distance Order                 | Easy       | [C++](1030.MatrixCellsInDistanceOrder.cpp) |
 | 1046  | Last Stone Weight                              | Easy       | [C++](1046.LastStoneWeight.cpp) |
