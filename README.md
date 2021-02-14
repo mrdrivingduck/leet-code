@@ -155,7 +155,8 @@ make clean
 | 48    | 剑指 Offer 48. 最长不含重复字符的子字符串          | Medium     | [C++](Offer48.LongestSubstringWithoutRepeatingCharacters.cpp) |
 | 49    | 剑指 Offer 49. 丑数                             | Medium     | [C++](Offer49.UglyNumber.cpp) |
 | 51    | 剑指 Offer 51. 数组中的逆序对                     | Hard      | [C++](Offer51.ReversePair.cpp) |
-| 56    | 剑指 Offer 56 - I. 数组中数字出现的次数           | Medium    | [C++](Offer56.NumbersInArray.cpp) |
+| 56    | 剑指 Offer 56 - I. 数组中数字出现的次数           | Medium    | [C++](Offer56.1.NumbersInArray.cpp) |
+| 56    | 剑指 Offer 56 - II. 数组中数字出现的次数 II       | Medium    | [C++](Offer56.2.NumbersInArrayII.cpp) |
 
 ---
 
