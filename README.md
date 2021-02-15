@@ -88,6 +88,7 @@ make clean
 | 454   | 4Sum II                                        | Medium     | [C++](454.4SumII.cpp) |
 | 455   | Assign Cookies                                 | Easy       | [C++](455.AssignCookies.cpp) |
 | 480   | Sliding Window Median                          | Hard       | [C++](480.SlidingWindowMedian.cpp) |
+| 485   | Sliding Window Median                          | Easy       | [C++](485.MaxConsecutiveOnes.cpp) |
 | 547   | Number of Provinces                            | Medium     | [C++](547.NumberOfProvinces.cpp) |
 | 567   | Permutation in String                          | Medium     | [C++](567.PermutationInString.cpp) |
 | 605   | Can Place Flowers                              | Easy       | [C++](605.CanPlaceFlowers.cpp) |
