@@ -90,6 +90,7 @@ make clean
 | 480   | Sliding Window Median                          | Hard       | [C++](480.SlidingWindowMedian.cpp) |
 | 485   | Sliding Window Median                          | Easy       | [C++](485.MaxConsecutiveOnes.cpp) |
 | 547   | Number of Provinces                            | Medium     | [C++](547.NumberOfProvinces.cpp) |
+| 561   | Array Partition I                              | Easy       | [C++](561.ArrayPartitionI.cpp) |
 | 567   | Permutation in String                          | Medium     | [C++](567.PermutationInString.cpp) |
 | 605   | Can Place Flowers                              | Easy       | [C++](605.CanPlaceFlowers.cpp) |
 | 621   | Task Scheduler                                 | Medium     | [C++](621.TaskScheduler.cpp) |
