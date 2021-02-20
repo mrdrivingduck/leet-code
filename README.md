@@ -101,6 +101,7 @@ make clean
 | 665   | Non-decreasing Array                           | Easy       | [C++](665.NonDecreasingArray.cpp) |
 | 674   | Longest Continuous Increasing Subsequence      | Easy       | [C++](674.LongestContinuousIncreasingSubsequence.cpp) |
 | 684   | Redundant Connection                           | Medium     | [C++](684.RedundantConnection.cpp) |
+| 697   | Degree of an Array                             | Easy       | [C++](697.DegreeOfAnArray.cpp) |
 | 703   | Kth Largest Element in a Stream                | Easy       | [C++](703.KthLargestElementInAStream.cpp) |
 | 714   | Best Time to Buy and Sell Stock with Transaction Fee | Medium     | [C++](714.BestTimeToBuyAndSellStockWithTransactionFee.cpp) |
 | 721   | Accounts Merge                                 | Medium     | [C++](721.AccountsMerge.cpp) |
