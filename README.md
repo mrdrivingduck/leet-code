@@ -108,6 +108,7 @@ make clean
 | 724   | Find Pivot Index                               | Easy       | [C++](724.FindPivotIndex.cpp) |
 | 738   | Monotone Increasing Digits                     | Medium     | [C++](738.MonotoneIncreasingDigits.cpp) |
 | 746   | Min Cost Climbing Stairs                       | Easy       | [C++](746.MinCostClimbingStairs.cpp) |
+| 766   | Toeplitz Matrix                                | Easy       | [C++](766.ToeplitzMatrix.cpp) |
 | 767   | Reorganize String                              | Medium     | [C++](767.ReorganizeString.cpp) |
 | 830   | Positions of Large Groups                      | Easy       | [C++](830.PositionsOfLargeGroups.cpp) |
 | 839   | Similar String Groups                          | Hard       | [C++](839.SimilarStringGroups.cpp) |
