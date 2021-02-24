@@ -111,6 +111,7 @@ make clean
 | 766   | Toeplitz Matrix                                | Easy       | [C++](766.ToeplitzMatrix.cpp) |
 | 767   | Reorganize String                              | Medium     | [C++](767.ReorganizeString.cpp) |
 | 830   | Positions of Large Groups                      | Easy       | [C++](830.PositionsOfLargeGroups.cpp) |
+| 832   | Flipping an Image                              | Easy       | [C++](832.FlippingAnImage.cpp) |
 | 839   | Similar String Groups                          | Hard       | [C++](839.SimilarStringGroups.cpp) |
 | 842   | Split Array into Fibonacci Sequence            | Medium     | [C++](842.SplitArrayIntoFibonacciSequence.cpp) |
 | 860   | Lemonade Change                                | Easy       | [C++](860.LemonadeChange.cpp) |
