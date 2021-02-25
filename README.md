@@ -116,6 +116,7 @@ make clean
 | 842   | Split Array into Fibonacci Sequence            | Medium     | [C++](842.SplitArrayIntoFibonacciSequence.cpp) |
 | 860   | Lemonade Change                                | Easy       | [C++](860.LemonadeChange.cpp) |
 | 861   | Score After Flipping Matrix                    | Medium     | [C++](861.ScoreAfterFlippingMatrix.cpp) |
+| 867   | Transpose Matrix                               | Easy       | [C++](867.TransposeMatrix.cpp) |
 | 888   | Fair Candy Swap                                | Easy       | [C++](888.FairCandySwap.cpp) |
 | 922   | Sort Array By Parity II                        | Easy       | [C++](922.SortArrayByParityII.cpp) |
 | 946   | Validate Stack Sequences                       | Medium     | [C++](Offer31.ValidateStackSequences.cpp) |
