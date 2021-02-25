@@ -169,3 +169,9 @@ make clean
 
 ---
 
+## License
+
+Copyright © 2019-2021, Jingtang Zhang. ([MIT License](LICENSE))
+
+---
+
