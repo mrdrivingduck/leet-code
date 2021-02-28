@@ -118,6 +118,7 @@ make clean
 | 861   | Score After Flipping Matrix                    | Medium     | [C++](861.ScoreAfterFlippingMatrix.cpp) |
 | 867   | Transpose Matrix                               | Easy       | [C++](867.TransposeMatrix.cpp) |
 | 888   | Fair Candy Swap                                | Easy       | [C++](888.FairCandySwap.cpp) |
+| 896   | Monotonic Array                                | Easy       | [C++](896.MonotonicArray.cpp) |
 | 922   | Sort Array By Parity II                        | Easy       | [C++](922.SortArrayByParityII.cpp) |
 | 946   | Validate Stack Sequences                       | Medium     | [C++](Offer31.ValidateStackSequences.cpp) |
 | 947   | Most Stones Removed with Same Row or Column    | Medium     | [C++](947.MostStonesRemovedWithSameRowOrColumn.cpp) |
