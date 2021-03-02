@@ -75,6 +75,7 @@ make clean
 | 295   | Find Median from Data Stream                   | Hard       | [C++](Offer41.FindMedianFromDataStream.cpp) |
 | 297   | Serialize and Deserialize Binary Tree          | Hard       | [C++](Offer37.SerializeAndDeserializeBinaryTree.cpp) |
 | 303   | Range Sum Query - Immutable                    | Easy       | [C++](303.RangeSumQueryImmutable.cpp) |
+| 304   | Range Sum Query 2D - Immutable                 | Medium     | [C++](304.RangeSumQuery2DImmutable.cpp) |
 | 316   | Remove Duplicate Letters                       | Medium     | [C++](316.RemoveDuplicateLetters.cpp) |
 | 321   | Create Maximum Number                          | Hard       | [C++](321.CreateMaximumNumber.cpp) |
 | 328   | Odd Even Linked List                           | Medium     | [C++](328.OddEvenLinkedList.cpp) |
