@@ -39,6 +39,7 @@ make clean
 | 8     | String to Integer (atoi)                       | Medium     | [C++](8.StringToInteger.cpp) |
 | 11    | Container with Most Water                      | Medium     | [C++](11.ContainerWithMostWater.cpp) |
 | 12    | Integer to Roman                               | Medium     | [C++](12.IntegerToRoman.cpp) |
+| 14    | Longest Common Prefix                          | Easy       | [C++](14.LongestCommonPrefix.cpp) |
 | 15    | 3Sum                                           | Medium     | [C++](15.3Sum.cpp) |
 | 16    | 3Sum Closest                                   | Medium     | [C++](16.3SumClosest.cpp) |
 | 17    | Letter Combinations of a Phone Number          | Medium     | [C++](17.LetterCombinationsOfAPhoneNumber.cpp) |
