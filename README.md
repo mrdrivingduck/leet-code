@@ -70,6 +70,7 @@ make clean
 | 222   | Count Complete Tree Nodes                      | Medium     | [C++](222.CountCompleteTreeNodes.cpp) |
 | 228   | Summary Ranges                                 | Easy       | [C++](228.SummaryRanges.cpp) |
 | 239   | Sliding Window Maximum                         | Hard       | [C++](239.SlidingWindowMaximum.cpp) |
+| 240   | Search a 2D Matrix II                          | Medium     | [C++](Offer04.SearchA2DMatrixII.cpp) |
 | 264   | Ugly Number II                                 | Medium     | [C++](Offer49.UglyNumber.cpp) |
 | 283   | Move Zeroes                                    | Easy       | [C++](283.MoveZeroes.cpp) |
 | 290   | Word Pattern                                   | Easy       | [C++](290.WordPattern.cpp) |
@@ -153,6 +154,8 @@ make clean
 
 | #     | Problem                                        | Difficulty | Link | 
 | ----  | ----                                           | ----       | ---- |
+| 03    | 剑指 Offer 03. 数组中重复的数字                   | Easy       | [C++](Offer03.DuplicatedNumsInArray.cpp) |
+| 04    | 剑指 Offer 04. 二维数组中的查找                   | Medium     | [C++](Offer04.SearchA2DMatrixII.cpp) |
 | 07    | 剑指 Offer 07. 重建二叉树                        | Medium     | [C++](Offer07.ConstructBinaryTreeFromPreorderAndInorderTraversal.cpp) |
 | 12    | 剑指 Offer 12. 矩阵中的路径                      | Medium     | [C++](Offer12.WordSearch.cpp) |
 | 13    | 剑指 Offer 13. 机器人的运动范围                   | Medium     | [C++](Offer13.MoveRangeOfRobot.cpp) |
