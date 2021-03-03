@@ -79,6 +79,7 @@ make clean
 | 316   | Remove Duplicate Letters                       | Medium     | [C++](316.RemoveDuplicateLetters.cpp) |
 | 321   | Create Maximum Number                          | Hard       | [C++](321.CreateMaximumNumber.cpp) |
 | 328   | Odd Even Linked List                           | Medium     | [C++](328.OddEvenLinkedList.cpp) |
+| 338   | Counting Bits                                  | Medium     | [C++](338.CountingBits.cpp) |
 | 376   | Wiggle Subsequence                             | Medium     | [C++](376.WiggleSubsequence.cpp) |
 | 387   | First Unique Character in a String             | Easy       | [C++](387.FirstUniqueCharacterInAString.cpp) |
 | 389   | Find the Difference                            | Easy       | [C++](389.FindTheDifference.cpp) |
