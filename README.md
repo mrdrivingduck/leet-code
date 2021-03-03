@@ -137,6 +137,7 @@ make clean
 | 1081  | Smallest Subsequence of Distinct Characters    | Medium     | [C++](316.RemoveDuplicateLetters.cpp) |
 | 1122  | Relative Sort Array                            | Easy       | [C++](1122.RelativeSortArray.cpp) |
 | 1128  | Number of Equivalent Domino Pairs              | Easy       | [C++](1128.NumberOfEquivalentDominoPairs.cpp) |
+| 1143  | Longest Common Subsequence                     | Medium     | [C++](1143.LongestCommonSubsequence.cpp) |
 | 1202  | Smallest String With Swaps                     | Medium     | [C++](1202.SmallestStringWithSwaps.cpp) |
 | 1208  | Get Equal Substrings Within Budget             | Medium     | [C++](1208.GetEqualSubstringsWithinBudget.cpp) |
 | 1232  | Check If It Is a Straight Line                 | Easy       | [C++](1232.CheckIfItIsAStraightLine.cpp) |
