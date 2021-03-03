@@ -50,6 +50,7 @@ make clean
 | 49    | Group Anagrams                                 | Medium     | [C++](49.GroupAnagrams.cpp) |
 | 50    | Pow(x, n)                                      | Medium     | [C++](Offer16.MyPow.cpp) |
 | 62    | Unique Paths                                   | Medium     | [C++](62.UniquePaths.cpp) |
+| 70    | Climbing Stairs                                | Easy       | [C++](Offer10.2.ClimbingStairs.cpp) |
 | 79    | Word Search                                    | Medium     | [C++](79.WordSearch.cpp) |
 | 85    | Maximal Rectangle                              | Hard       | [C++](85.MaximalRectangle.cpp) |
 | 86    | Partition List                                 | Medium     | [C++](86.PartitionList.cpp) |
@@ -157,6 +158,7 @@ make clean
 | 03    | 剑指 Offer 03. 数组中重复的数字                   | Easy       | [C++](Offer03.DuplicatedNumsInArray.cpp) |
 | 04    | 剑指 Offer 04. 二维数组中的查找                   | Medium     | [C++](Offer04.SearchA2DMatrixII.cpp) |
 | 07    | 剑指 Offer 07. 重建二叉树                        | Medium     | [C++](Offer07.ConstructBinaryTreeFromPreorderAndInorderTraversal.cpp) |
+| 10    | 剑指 Offer 10- II. 青蛙跳台阶问题                 | Easy       | [C++](Offer10.2.ClimbingStairs.cpp) |
 | 12    | 剑指 Offer 12. 矩阵中的路径                      | Medium     | [C++](Offer12.WordSearch.cpp) |
 | 13    | 剑指 Offer 13. 机器人的运动范围                   | Medium     | [C++](Offer13.MoveRangeOfRobot.cpp) |
 | 16    | 剑指 Offer 16. 数值的整数次方                     | Medium     | [C++](Offer16.MyPow.cpp) |
