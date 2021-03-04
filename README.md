@@ -49,6 +49,7 @@ make clean
 | 48    | Rotate Image                                   | Medium     | [C++](48.RotateImage.cpp) |
 | 49    | Group Anagrams                                 | Medium     | [C++](49.GroupAnagrams.cpp) |
 | 50    | Pow(x, n)                                      | Medium     | [C++](Offer16.MyPow.cpp) |
+| 53    | Maximum Subarray                               | Easy       | [C++](Offer42.MaximumSubarray.cpp) |
 | 62    | Unique Paths                                   | Medium     | [C++](62.UniquePaths.cpp) |
 | 70    | Climbing Stairs                                | Easy       | [C++](Offer10.2.ClimbingStairs.cpp) |
 | 79    | Word Search                                    | Medium     | [C++](79.WordSearch.cpp) |
@@ -171,6 +172,7 @@ make clean
 | 37    | 剑指 Offer 37. 序列化二叉树                      | Hard       | [C++](Offer37.SerializeAndDeserializeBinaryTree.cpp) |
 | 38    | 剑指 Offer 38. 字符串的排列  LCOF                | Medium     | [C++](Offer38.StringPermutation.cpp) |
 | 41    | 剑指 Offer 41. 数据流中的中位数                   | Hard      | [C++](Offer41.FindMedianFromDataStream.cpp) |
+| 42    | 剑指 Offer 42. 连续子数组的最大和                 | Easy       | [C++](Offer42.MaximumSubarray.cpp) |
 | 45    | 剑指 Offer 45. 把数组排成最小的数                 | Medium     | [C++](Offer45.SortArrayToMinimum.cpp) |
 | 46    | 剑指 Offer 46. 把数字翻译成字符串                 | Medium     | [C++](Offer46.TranslateDigits.cpp) |
 | 47    | 剑指 Offer 47. 礼物的最大价值                     | Medium     | [C++](Offer47.MaximumValueGift.cpp) |
