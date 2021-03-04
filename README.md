@@ -77,12 +77,14 @@ make clean
 | 290   | Word Pattern                                   | Easy       | [C++](290.WordPattern.cpp) |
 | 295   | Find Median from Data Stream                   | Hard       | [C++](Offer41.FindMedianFromDataStream.cpp) |
 | 297   | Serialize and Deserialize Binary Tree          | Hard       | [C++](Offer37.SerializeAndDeserializeBinaryTree.cpp) |
+| 300   | Longest Increasing Subsequence                 | Medium     | [C++](300.LongestIncreasingSubsequence.cpp) |
 | 303   | Range Sum Query - Immutable                    | Easy       | [C++](303.RangeSumQueryImmutable.cpp) |
 | 304   | Range Sum Query 2D - Immutable                 | Medium     | [C++](304.RangeSumQuery2DImmutable.cpp) |
 | 316   | Remove Duplicate Letters                       | Medium     | [C++](316.RemoveDuplicateLetters.cpp) |
 | 321   | Create Maximum Number                          | Hard       | [C++](321.CreateMaximumNumber.cpp) |
 | 328   | Odd Even Linked List                           | Medium     | [C++](328.OddEvenLinkedList.cpp) |
 | 338   | Counting Bits                                  | Medium     | [C++](338.CountingBits.cpp) |
+| 354   | Russian Doll Envelopes                         | Hard       | [C++](354.RussianDollEnvelopes.cpp) |
 | 376   | Wiggle Subsequence                             | Medium     | [C++](376.WiggleSubsequence.cpp) |
 | 387   | First Unique Character in a String             | Easy       | [C++](387.FirstUniqueCharacterInAString.cpp) |
 | 389   | Find the Difference                            | Easy       | [C++](389.FindTheDifference.cpp) |
