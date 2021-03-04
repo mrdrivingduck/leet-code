@@ -183,6 +183,7 @@ make clean
 | 56    | 剑指 Offer 56 - I. 数组中数字出现的次数           | Medium    | [C++](Offer56.1.NumbersInArray.cpp) |
 | 56    | 剑指 Offer 56 - II. 数组中数字出现的次数 II       | Medium    | [C++](Offer56.2.NumbersInArrayII.cpp) |
 | 63    | 剑指 Offer 63. 股票的最大利润                    | Medium    | [C++](Offer63.BestTimeToBuyAndSellStock.cpp) |
+| 66    | 剑指 Offer 66. 构建乘积数组                      | Medium    | [C++](Offer66.MultiplyingArrays.cpp) |
 
 ---
 
