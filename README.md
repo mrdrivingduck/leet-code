@@ -100,6 +100,7 @@ make clean
 | 455   | Assign Cookies                                 | Easy       | [C++](455.AssignCookies.cpp) |
 | 480   | Sliding Window Median                          | Hard       | [C++](480.SlidingWindowMedian.cpp) |
 | 485   | Sliding Window Median                          | Easy       | [C++](485.MaxConsecutiveOnes.cpp) |
+| 503   | Next Greater Element II                        | Medium     | [C++](503.NextGreaterElementII.cpp) |
 | 547   | Number of Provinces                            | Medium     | [C++](547.NumberOfProvinces.cpp) |
 | 561   | Array Partition I                              | Easy       | [C++](561.ArrayPartitionI.cpp) |
 | 566   | Reshape the Matrix                             | Easy       | [C++](566.ReshapeTheMatrix.cpp) |
