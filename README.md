@@ -70,6 +70,7 @@ make clean
 | 189   | Rotate Array                                   | Medium     | [C++](189.RotateArray.cpp) |
 | 204   | Count Primes                                   | Easy       | [C++](204.CountPrimes.cpp) |
 | 205   | Isomorphic Strings                             | Easy       | [C++](205.IsomorphicStrings.cpp) |
+| 215   | Kth Largest Element in an Array                | Medium     | [C++](215.KthLargestElementInAnArray.cpp) |
 | 217   | Contains Duplicate                             | Easy       | [C++](217.ContainsDuplicate.cpp) |
 | 222   | Count Complete Tree Nodes                      | Medium     | [C++](222.CountCompleteTreeNodes.cpp) |
 | 228   | Summary Ranges                                 | Easy       | [C++](228.SummaryRanges.cpp) |
