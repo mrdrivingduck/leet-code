@@ -60,6 +60,7 @@ make clean
 | 118   | Pascal's Triangle                              | Easy       | [C++](118.PascalsTriangle.cpp) |
 | 119   | Pascal's Triangle II                           | Easy       | [C++](119.PascalsTriangleII.cpp) |
 | 121   | Best Time to Buy and Sell Stock                | Easy       | [C++](Offer63.BestTimeToBuyAndSellStock.cpp) |
+| 131   | Palindrome Partitioning                        | Medium     | [C++](131.PalindromePartitioning.cpp) |
 | 134   | Gas Station                                    | Medium     | [C++](134.GasStation.cpp) |
 | 135   | Candy                                          | Hard       | [C++](135.Candy.cpp) |
 | 138   | Copy List with Random Pointer                  | Medium     | [C++](Offer35.CopyListWithRandomPointer.cpp) |
