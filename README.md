@@ -145,6 +145,7 @@ make clean
 | 1018  | Binary Prefix Divisible By 5                   | Easy       | [C++](1018.BinaryPrefixDivisibleBy5.cpp) |
 | 1030  | Matrix Cells in Distance Order                 | Easy       | [C++](1030.MatrixCellsInDistanceOrder.cpp) |
 | 1046  | Last Stone Weight                              | Easy       | [C++](1046.LastStoneWeight.cpp) |
+| 1047  | Remove All Adjacent Duplicates In String       | Easy       | [C++](1047.RemoveAllAdjacentDuplicatesInString.cpp) |
 | 1052  | Grumpy Bookstore Owner                         | Medium     | [C++](1052.GrumpyBookstoreOwner.cpp) |
 | 1081  | Smallest Subsequence of Distinct Characters    | Medium     | [C++](316.RemoveDuplicateLetters.cpp) |
 | 1122  | Relative Sort Array                            | Easy       | [C++](1122.RelativeSortArray.cpp) |
