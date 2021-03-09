@@ -65,6 +65,7 @@ make clean
 | 134   | Gas Station                                    | Medium     | [C++](134.GasStation.cpp) |
 | 135   | Candy                                          | Hard       | [C++](135.Candy.cpp) |
 | 138   | Copy List with Random Pointer                  | Medium     | [C++](Offer35.CopyListWithRandomPointer.cpp) |
+| 145   | Binary Tree Postorder Traversal                | Medium     | [C++](145.BinaryTreePostorderTraversal.cpp) |
 | 147   | Insertion Sort List                            | Medium     | [C++](147.InsertionSortList.cpp) |
 | 148   | Sort List                                      | Medium     | [C++](148.SortList.cpp) |
 | 164   | Maximum Gap                                    | Hard       | [C++](164.MaximumGap.cpp) |
@@ -125,6 +126,7 @@ make clean
 | 746   | Min Cost Climbing Stairs                       | Easy       | [C++](746.MinCostClimbingStairs.cpp) |
 | 766   | Toeplitz Matrix                                | Easy       | [C++](766.ToeplitzMatrix.cpp) |
 | 767   | Reorganize String                              | Medium     | [C++](767.ReorganizeString.cpp) |
+| 815   | Bus Routes                                     | Hard       | [C++](815.BusRoutes.cpp) |
 | 830   | Positions of Large Groups                      | Easy       | [C++](830.PositionsOfLargeGroups.cpp) |
 | 832   | Flipping an Image                              | Easy       | [C++](832.FlippingAnImage.cpp) |
 | 839   | Similar String Groups                          | Hard       | [C++](839.SimilarStringGroups.cpp) |
