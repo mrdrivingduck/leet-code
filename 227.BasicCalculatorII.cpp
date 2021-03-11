@@ -1,41 +1,44 @@
 /**
  * @author Mr Dk.
- * @version 2021/03/10
+ * @version 2021/03/11
  */
 
 /*
-    Given a string s representing an expression, implement a basic
-    calculator to evaluate it. 
+    Given a string s which represents an expression, evaluate this
+    expression and return its value. 
+
+    The integer division should truncate toward zero. 
 
     Example 1:
-        Input: s = "1 + 1"
-        Output: 2
+        Input: s = "3+2*2"
+        Output: 7
 
     Example 2:
-        Input: s = " 2-1 + 2 "
-        Output: 3
+        Input: s = " 3/2 "
+        Output: 1
 
     Example 3:
-        Input: s = "(1+(4+5+2)-3)+(6+8)"
-        Output: 23
+        Input: s = " 3+5 / 2 "
+        Output: 5
 
     Constraints:
-        1 <= s.length <= 3 * 105
-        s consists of digits, '+', '-', '(', ')', and ' '.
+        1 <= s.length <= 3 * 105
+        s consists of integers and operators ('+', '-', '*', '/') separated by some number of spaces.
         s represents a valid expression.
+        All the integers in the expression are non-negative integers in the range [0, 231 - 1].
+        The answer is guaranteed to fit in a 32-bit integer.
 
     来源：力扣（LeetCode）
-    链接：https://leetcode-cn.com/problems/basic-calculator
+    链接：https://leetcode-cn.com/problems/basic-calculator-ii
     著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  */
 
 /*
     维护一个操作数栈和操作符栈。
-    当遇到一个左括号时，压入操作符栈；当遇到一个右括号时，不断弹出操作符和操作数进行
-    运算，并将运算结果再压入操作数栈中，直到左括号被弹出。
-    当遇到加号或减号时，应当尽可能先计算之前的结果，然后再将运算结果和运算符压入栈中。
+    当遇到一个低优先级的运算符时，尽可能将栈顶的高优先级的运算符运算完毕；
+    当遇到一个相同优先级的运算符时，尽可能将栈顶的相同等级的运算符运算完毕。
 
-    优先级：括号 > 加号 == 减号。
+    优先级：乘法 == 除法 > 加号 == 减号。
  */
 
 #include <cassert>
@@ -59,11 +62,8 @@ public:
         while (i < s.length()) {
             if (s[i] == ' ') {
                 i++;
-            } else if (s[i] == '(') {
-                op.push('(');
-                i++;
-            } else if (s[i] == '+' || s[i] == '-') {
-                while (!op.empty() && ((top_op = op.top()) == '+' || top_op == '-')) {
+            } else if (s[i] == '*' || s[i] == '/') {
+                while (!op.empty() && ((top_op = op.top()) == '*' || top_op == '/')) {
                     op.pop();
                     int op2 = op_nums.top();
                     op_nums.pop();
@@ -77,12 +77,17 @@ public:
                         op_nums.push(op1 + op2);
                     } else if (top_op == '-') {
                         op_nums.push(op1 - op2);
+                    } else if (top_op == '*') {
+                        op_nums.push(op1 * op2);
+                    } else if (top_op == '/') {
+                        op_nums.push(op1 / op2);
                     }
                 }
                 op.push(s[i]);
                 i++;
-            } else if (s[i] == ')') {
-                while (!op.empty() && (top_op = op.top()) != '(') {
+            } else if (s[i] == '+' || s[i] == '-') {
+                while (!op.empty()) {
+                    top_op = op.top();
                     op.pop();
                     int op2 = op_nums.top();
                     op_nums.pop();
@@ -96,11 +101,13 @@ public:
                         op_nums.push(op1 + op2);
                     } else if (top_op == '-') {
                         op_nums.push(op1 - op2);
+                    } else if (top_op == '*') {
+                        op_nums.push(op1 * op2);
+                    } else if (top_op == '/') {
+                        op_nums.push(op1 / op2);
                     }
                 }
-                if (!op.empty()) {
-                    op.pop();
-                }
+                op.push(s[i]);
                 i++;
             } else {
                 int num = s[i] - '0';
@@ -114,7 +121,8 @@ public:
             }
         }
 
-        while (!op.empty() && ((top_op = op.top()) == '+' || top_op == '-')) {
+        while (!op.empty()) {
+            top_op = op.top();
             op.pop();
             int op2 = op_nums.top();
             op_nums.pop();
@@ -128,6 +136,10 @@ public:
                 op_nums.push(op1 + op2);
             } else if (top_op == '-') {
                 op_nums.push(op1 - op2);
+            } else if (top_op == '*') {
+                op_nums.push(op1 * op2);
+            } else if (top_op == '/') {
+                op_nums.push(op1 / op2);
             }
         }
 
@@ -138,16 +150,14 @@ public:
 int main()
 {
     Solution s;
+
+    assert(8 == s.calculate("14/3*2"));
     
-    assert(2 == s.calculate("1 + 1"));
+    assert(7 == s.calculate("3+2*2"));
 
-    assert(3 == s.calculate(" 2-1 + 2"));
+    assert(1 == s.calculate(" 3/2"));
 
-    assert(23 == s.calculate("(1+(4+5+2)-3)+(6+8)"));
-
-    assert(-1 == s.calculate("-2+ 1"));
-
-    assert(-12 == s.calculate("- (3 + (4 + 5))"));
+    assert(5 == s.calculate(" 3+5 / 2 "));
 
     return 0;
 }

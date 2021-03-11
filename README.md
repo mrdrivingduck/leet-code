@@ -76,6 +76,7 @@ make clean
 | 217   | Contains Duplicate                             | Easy       | [C++](217.ContainsDuplicate.cpp) |
 | 222   | Count Complete Tree Nodes                      | Medium     | [C++](222.CountCompleteTreeNodes.cpp) |
 | 224   | Basic Calculator                               | Hard       | [C++](224.BasicCalculator.cpp) |
+| 227   | Basic Calculator II                            | Medium     | [C++](227.BasicCalculatorII.cpp) |
 | 228   | Summary Ranges                                 | Easy       | [C++](228.SummaryRanges.cpp) |
 | 232   | Implement Queue using Stacks                   | Easy       | [C++](232.ImplementQueueUsingStacks.cpp) |
 | 239   | Sliding Window Maximum                         | Hard       | [C++](239.SlidingWindowMaximum.cpp) |
