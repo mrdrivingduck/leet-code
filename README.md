@@ -52,6 +52,7 @@ make clean
 | 53    | Maximum Subarray                               | Easy       | [C++](Offer42.MaximumSubarray.cpp) |
 | 62    | Unique Paths                                   | Medium     | [C++](62.UniquePaths.cpp) |
 | 70    | Climbing Stairs                                | Easy       | [C++](Offer10.2.ClimbingStairs.cpp) |
+| 72    | Edit Distance                                  | Hard       | [C++](72.EditDistance.cpp) |
 | 79    | Word Search                                    | Medium     | [C++](79.WordSearch.cpp) |
 | 85    | Maximal Rectangle                              | Hard       | [C++](85.MaximalRectangle.cpp) |
 | 86    | Partition List                                 | Medium     | [C++](86.PartitionList.cpp) |
@@ -108,6 +109,7 @@ make clean
 | 485   | Sliding Window Median                          | Easy       | [C++](485.MaxConsecutiveOnes.cpp) |
 | 503   | Next Greater Element II                        | Medium     | [C++](503.NextGreaterElementII.cpp) |
 | 547   | Number of Provinces                            | Medium     | [C++](547.NumberOfProvinces.cpp) |
+| 557   | Reverse Words in a String III                  | Easy       | [C++](557.ReverseWordsInAStringIII.cpp) |
 | 561   | Array Partition I                              | Easy       | [C++](561.ArrayPartitionI.cpp) |
 | 566   | Reshape the Matrix                             | Easy       | [C++](566.ReshapeTheMatrix.cpp) |
 | 567   | Permutation in String                          | Medium     | [C++](567.PermutationInString.cpp) |
