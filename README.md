@@ -93,6 +93,7 @@ make clean
 | 316   | Remove Duplicate Letters                       | Medium     | [C++](316.RemoveDuplicateLetters.cpp) |
 | 321   | Create Maximum Number                          | Hard       | [C++](321.CreateMaximumNumber.cpp) |
 | 328   | Odd Even Linked List                           | Medium     | [C++](328.OddEvenLinkedList.cpp) |
+| 331   | Verify Preorder Serialization of a Binary Tree | Medium     | [C++](331.VerifyPreorderSerializationOfABinaryTree.cpp) |
 | 338   | Counting Bits                                  | Medium     | [C++](338.CountingBits.cpp) |
 | 354   | Russian Doll Envelopes                         | Hard       | [C++](354.RussianDollEnvelopes.cpp) |
 | 376   | Wiggle Subsequence                             | Medium     | [C++](376.WiggleSubsequence.cpp) |
