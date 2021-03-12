@@ -55,6 +55,7 @@ make clean
 | 70    | Climbing Stairs                                | Easy       | [C++](Offer10.2.ClimbingStairs.cpp) |
 | 72    | Edit Distance                                  | Hard       | [C++](72.EditDistance.cpp) |
 | 79    | Word Search                                    | Medium     | [C++](79.WordSearch.cpp) |
+| 82    | Remove Duplicates from Sorted List II          | Medium     | [C++](82.RemoveDuplicatesFromSortedListII.cpp) |
 | 85    | Maximal Rectangle                              | Hard       | [C++](85.MaximalRectangle.cpp) |
 | 86    | Partition List                                 | Medium     | [C++](86.PartitionList.cpp) |
 | 103   | Binary Tree Zigzag Level Order Traversal       | Medium     | [C++](103.BinaryTreeZigzagLevelOrderTraversal.cpp) |
