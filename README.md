@@ -98,6 +98,7 @@ make clean
 | 331   | Verify Preorder Serialization of a Binary Tree | Medium     | [C++](331.VerifyPreorderSerializationOfABinaryTree.cpp) |
 | 338   | Counting Bits                                  | Medium     | [C++](338.CountingBits.cpp) |
 | 354   | Russian Doll Envelopes                         | Hard       | [C++](354.RussianDollEnvelopes.cpp) |
+| 357   | Count Numbers with Unique Digits               | Medium     | [C++](357.CountNumbersWithUniqueDigits.cpp) |
 | 376   | Wiggle Subsequence                             | Medium     | [C++](376.WiggleSubsequence.cpp) |
 | 387   | First Unique Character in a String             | Easy       | [C++](387.FirstUniqueCharacterInAString.cpp) |
 | 389   | Find the Difference                            | Easy       | [C++](389.FindTheDifference.cpp) |
