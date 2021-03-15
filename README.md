@@ -51,6 +51,7 @@ make clean
 | 49    | Group Anagrams                                 | Medium     | [C++](49.GroupAnagrams.cpp) |
 | 50    | Pow(x, n)                                      | Medium     | [C++](Offer16.MyPow.cpp) |
 | 53    | Maximum Subarray                               | Easy       | [C++](Offer42.MaximumSubarray.cpp) |
+| 54    | Spiral Matrix                                  | Medium     | [C++](54.SpiralMatrix.cpp) |
 | 62    | Unique Paths                                   | Medium     | [C++](62.UniquePaths.cpp) |
 | 70    | Climbing Stairs                                | Easy       | [C++](Offer10.2.ClimbingStairs.cpp) |
 | 72    | Edit Distance                                  | Hard       | [C++](72.EditDistance.cpp) |

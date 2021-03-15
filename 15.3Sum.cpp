@@ -62,11 +62,6 @@ public:
 
         int left_p = 0;
         while (left_p < nums.size() && nums[left_p] <= 0) {
-
-            if (nums[left_p] > 0) {
-                break;
-            }
-
             int left = left_p + 1;
             int right = nums.size() - 1;
 
