@@ -44,6 +44,7 @@ make clean
 | 16    | 3Sum Closest                                   | Medium     | [C++](16.3SumClosest.cpp) |
 | 17    | Letter Combinations of a Phone Number          | Medium     | [C++](17.LetterCombinationsOfAPhoneNumber.cpp) |
 | 18    | 4Sum                                           | Medium     | [C++](18.4Sum.cpp) |
+| 28    | Implement strStr()                             | Easy       | [C++](28.ImplementStrStr.cpp) |
 | 31    | Next Permutation                               | Medium     | [C++](31.NextPermutation.cpp) |
 | 34    | Find First and Last Position of Element in Sorted Array | Medium | [C++](34.FindFirstAndLastPositionOfElementInSortedArray.cpp) |
 | 46    | Permutations                                   | Medium     | [C++](46.Permutations.cpp) |
@@ -170,6 +171,7 @@ make clean
 | 1370  | Increasing Decreasing String                   | Easy       | [C++](1370.IncreasingDecreasingString.cpp) |
 | 1423  | Maximum Points You Can Obtain from Cards       | Medium     | [C++](1423.MaximumPointsYouCanObtainFromCards.cpp) |
 | 1438  | Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit | Medium     | [C++](1438.LongestContinuousSubarrayWithAbsoluteDiffLessThanOrEqualToLimit.cpp) |
+| 1458  | Max Dot Product of Two Subsequences            | Hard       | [C++](1458.MaxDotProductOfTwoSubsequences.cpp) |
 | 1584  | Min Cost to Connect All Points                 | Medium     | [C++](1584.MinCostToConnectAllPoints.cpp) |
 
 ## 剑指 Offer
