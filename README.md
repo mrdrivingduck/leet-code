@@ -136,6 +136,7 @@ make clean
 | 746   | Min Cost Climbing Stairs                       | Easy       | [C++](746.MinCostClimbingStairs.cpp) |
 | 766   | Toeplitz Matrix                                | Easy       | [C++](766.ToeplitzMatrix.cpp) |
 | 767   | Reorganize String                              | Medium     | [C++](767.ReorganizeString.cpp) |
+| 787   | Cheapest Flights Within K Stops                | Medium     | [C++](787.CheapestFlightsWithinKStops.cpp) |
 | 815   | Bus Routes                                     | Hard       | [C++](815.BusRoutes.cpp) |
 | 830   | Positions of Large Groups                      | Easy       | [C++](830.PositionsOfLargeGroups.cpp) |
 | 832   | Flipping an Image                              | Easy       | [C++](832.FlippingAnImage.cpp) |
