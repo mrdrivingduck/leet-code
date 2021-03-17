@@ -63,6 +63,7 @@ make clean
 | 86    | Partition List                                 | Medium     | [C++](86.PartitionList.cpp) |
 | 103   | Binary Tree Zigzag Level Order Traversal       | Medium     | [C++](103.BinaryTreeZigzagLevelOrderTraversal.cpp) |
 | 105   | Construct Binary Tree from Preorder and Inorder Traversal   | Medium     | [C++](Offer07.ConstructBinaryTreeFromPreorderAndInorderTraversal.cpp) |
+| 115   | Distinct Subsequences                          | Hard       | [C++](115.DistinctSubsequences.cpp) |
 | 118   | Pascal's Triangle                              | Easy       | [C++](118.PascalsTriangle.cpp) |
 | 119   | Pascal's Triangle II                           | Easy       | [C++](119.PascalsTriangleII.cpp) |
 | 121   | Best Time to Buy and Sell Stock                | Easy       | [C++](Offer63.BestTimeToBuyAndSellStock.cpp) |
