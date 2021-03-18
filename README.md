@@ -74,6 +74,7 @@ make clean
 | 135   | Candy                                          | Hard       | [C++](135.Candy.cpp) |
 | 138   | Copy List with Random Pointer                  | Medium     | [C++](Offer35.CopyListWithRandomPointer.cpp) |
 | 145   | Binary Tree Postorder Traversal                | Medium     | [C++](145.BinaryTreePostorderTraversal.cpp) |
+| 146   | LRU Cache                                      | Medium     | [C++](146.LRUCache.cpp) |
 | 147   | Insertion Sort List                            | Medium     | [C++](147.InsertionSortList.cpp) |
 | 148   | Sort List                                      | Medium     | [C++](148.SortList.cpp) |
 | 164   | Maximum Gap                                    | Hard       | [C++](164.MaximumGap.cpp) |
