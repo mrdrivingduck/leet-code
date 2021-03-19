@@ -178,6 +178,7 @@ make clean
 | 1438  | Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit | Medium     | [C++](1438.LongestContinuousSubarrayWithAbsoluteDiffLessThanOrEqualToLimit.cpp) |
 | 1458  | Max Dot Product of Two Subsequences            | Hard       | [C++](1458.MaxDotProductOfTwoSubsequences.cpp) |
 | 1584  | Min Cost to Connect All Points                 | Medium     | [C++](1584.MinCostToConnectAllPoints.cpp) |
+| 1603  | Design Parking System                          | Easy       | [C++](1603.DesignParkingSystem.cpp) |
 
 ## 剑指 Offer
 
