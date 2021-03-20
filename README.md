@@ -77,6 +77,7 @@ make clean
 | 146   | LRU Cache                                      | Medium     | [C++](146.LRUCache.cpp) |
 | 147   | Insertion Sort List                            | Medium     | [C++](147.InsertionSortList.cpp) |
 | 148   | Sort List                                      | Medium     | [C++](148.SortList.cpp) |
+| 150   | Evaluate Reverse Polish Notation               | Medium     | [C++](150.EvaluateReversePolishNotation.cpp) |
 | 164   | Maximum Gap                                    | Hard       | [C++](164.MaximumGap.cpp) |
 | 189   | Rotate Array                                   | Medium     | [C++](189.RotateArray.cpp) |
 | 204   | Count Primes                                   | Easy       | [C++](204.CountPrimes.cpp) |
