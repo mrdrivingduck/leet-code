@@ -57,6 +57,7 @@ make clean
 | 62    | Unique Paths                                   | Medium     | [C++](62.UniquePaths.cpp) |
 | 70    | Climbing Stairs                                | Easy       | [C++](Offer10.2.ClimbingStairs.cpp) |
 | 72    | Edit Distance                                  | Hard       | [C++](72.EditDistance.cpp) |
+| 73    | Set Matrix Zeroes                              | Medium     | [C++](73.SetMatrixZeroes.cpp) |
 | 79    | Word Search                                    | Medium     | [C++](79.WordSearch.cpp) |
 | 82    | Remove Duplicates from Sorted List II          | Medium     | [C++](82.RemoveDuplicatesFromSortedListII.cpp) |
 | 85    | Maximal Rectangle                              | Hard       | [C++](85.MaximalRectangle.cpp) |
