@@ -81,6 +81,7 @@ make clean
 | 150   | Evaluate Reverse Polish Notation               | Medium     | [C++](150.EvaluateReversePolishNotation.cpp) |
 | 164   | Maximum Gap                                    | Hard       | [C++](164.MaximumGap.cpp) |
 | 189   | Rotate Array                                   | Medium     | [C++](189.RotateArray.cpp) |
+| 191   | Number of 1 Bits                               | Easy       | [C++](191.NumberOf1Bits.cpp) |
 | 204   | Count Primes                                   | Easy       | [C++](204.CountPrimes.cpp) |
 | 205   | Isomorphic Strings                             | Easy       | [C++](205.IsomorphicStrings.cpp) |
 | 215   | Kth Largest Element in an Array                | Medium     | [C++](215.KthLargestElementInAnArray.cpp) |
