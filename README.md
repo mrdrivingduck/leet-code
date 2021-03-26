@@ -46,6 +46,7 @@ make clean
 | 18    | 4Sum                                           | Medium     | [C++](18.4Sum.cpp) |
 | 19    | Remove Nth Node From End of List               | Medium     | [C++](19.RemoveNthNodeFromEndOfList.cpp) |
 | 22    | Generate Parentheses                           | Medium     | [C++](22.GenerateParentheses.cpp) |
+| 23    | Merge k Sorted Lists                           | Hard       | [C++](23.MergeKSortedLists.cpp) |
 | 28    | Implement strStr()                             | Easy       | [C++](28.ImplementStrStr.cpp) |
 | 31    | Next Permutation                               | Medium     | [C++](31.NextPermutation.cpp) |
 | 34    | Find First and Last Position of Element in Sorted Array | Medium | [C++](34.FindFirstAndLastPositionOfElementInSortedArray.cpp) |
