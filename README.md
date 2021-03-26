@@ -44,6 +44,7 @@ make clean
 | 16    | 3Sum Closest                                   | Medium     | [C++](16.3SumClosest.cpp) |
 | 17    | Letter Combinations of a Phone Number          | Medium     | [C++](17.LetterCombinationsOfAPhoneNumber.cpp) |
 | 18    | 4Sum                                           | Medium     | [C++](18.4Sum.cpp) |
+| 22    | Generate Parentheses                           | Medium     | [C++](22.GenerateParentheses.cpp) |
 | 28    | Implement strStr()                             | Easy       | [C++](28.ImplementStrStr.cpp) |
 | 31    | Next Permutation                               | Medium     | [C++](31.NextPermutation.cpp) |
 | 34    | Find First and Last Position of Element in Sorted Array | Medium | [C++](34.FindFirstAndLastPositionOfElementInSortedArray.cpp) |
