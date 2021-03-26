@@ -60,6 +60,7 @@ make clean
 | 73    | Set Matrix Zeroes                              | Medium     | [C++](73.SetMatrixZeroes.cpp) |
 | 79    | Word Search                                    | Medium     | [C++](79.WordSearch.cpp) |
 | 82    | Remove Duplicates from Sorted List II          | Medium     | [C++](82.RemoveDuplicatesFromSortedListII.cpp) |
+| 83    | Remove Duplicates from Sorted List             | Easy       | [C++](83.RemoveDuplicatesFromSortedList.cpp) |
 | 85    | Maximal Rectangle                              | Hard       | [C++](85.MaximalRectangle.cpp) |
 | 86    | Partition List                                 | Medium     | [C++](86.PartitionList.cpp) |
 | 92    | Reverse Linked List II                         | Medium     | [C++](92.ReverseLinkedListII.cpp) |
