@@ -57,6 +57,7 @@ make clean
 | 53    | Maximum Subarray                               | Easy       | [C++](Offer42.MaximumSubarray.cpp) |
 | 54    | Spiral Matrix                                  | Medium     | [C++](54.SpiralMatrix.cpp) |
 | 59    | Spiral Matrix II                               | Medium     | [C++](59.SpiralMatrixII.cpp) |
+| 61    | Rotate List                                    | Medium     | [C++](61.RotateList.cpp) |
 | 62    | Unique Paths                                   | Medium     | [C++](62.UniquePaths.cpp) |
 | 70    | Climbing Stairs                                | Easy       | [C++](Offer10.2.ClimbingStairs.cpp) |
 | 72    | Edit Distance                                  | Hard       | [C++](72.EditDistance.cpp) |
