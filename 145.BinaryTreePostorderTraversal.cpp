@@ -93,45 +93,36 @@ public:
     //     return order;
     // }
 
-    // vector<int> postorderTraversal(TreeNode* root) {
-    //     vector<int> order;
-    //     vector<TreeNode *> stack;
-    //     vector<int> flags;
-    //     int flag = 0;
+    vector<int> postorderTraversal(TreeNode* root) {
+        vector<int> post_order;
+        stack<TreeNode *> nodes;
+        stack<bool> second_push;
+        
+        bool second = false;
+        while (!nodes.empty() || root) {
+            if (root) {
+                nodes.push(root);
+                second_push.push(false);
+                root = root->left;
+            } else {
+                root = nodes.top();
+                second = second_push.top();
+                nodes.pop();
+                second_push.pop();
+                
+                if (!second) {
+                    nodes.push(root);
+                    second_push.push(true);
+                    root = root->right;
+                } else {
+                    post_order.push_back(root->val);
+                    root = NULL;
+                }
+            }
+        }
 
-    //     while (root) {
-    //         if (flag == 0) {
-    //             if (root->left) {
-    //                 stack.push_back(root);
-    //                 flags.push_back(1);
-    //                 root = root->left;
-    //                 flag = 0;
-    //                 continue;
-    //             }
-    //         }
-    //         if (flag == 0 || flag == 1) {
-    //             if (root->right) {
-    //                 stack.push_back(root);
-    //                 flags.push_back(2);
-    //                 root = root->right;
-    //                 flag = 0;
-    //                 continue;
-    //             }
-    //         }
-
-    //         order.push_back(root->val);
-
-    //         if (stack.empty()) {
-    //             break;
-    //         }
-    //         root = stack[stack.size() - 1];
-    //         flag = flags[flags.size() - 1];
-    //         stack.pop_back();
-    //         flags.pop_back();
-    //     }
-
-    //     return order;
-    // }
+        return post_order;
+    }
 
     /**
      * 递归写法：
@@ -152,71 +143,83 @@ public:
      * 压入栈中，然后将局部变量更新为下一轮循环的模式；在恢复时，从栈中弹出局部变量
      * 和返回地址，将局部变量复原，然后将控制流跳转到相应的返回地址上。
      */
-    vector<int> postorderTraversal(TreeNode* root) {
-        vector<int> order;
-        stack<TreeNode *> nodes;
-        stack<int> flags;
-        int flag = 0;
+//     vector<int> postorderTraversal(TreeNode* root) {
+//         vector<int> order;
+//         stack<TreeNode *> nodes;
+//         stack<int> flags;
+//         int flag = 0;
 
-        while (root) {
-            if (root->left) {
-                nodes.push(root);
-                flags.push(1);
-                root = root->left;
-                flag = 0;
-                continue;
-ret_from_left:
-                ;
-            }
-            if (root->right) {
-                nodes.push(root);
-                flags.push(2);
-                root = root->right;
-                flag = 0;
-                continue;
-ret_from_right:
-                ;
-            }
+//         while (root) {
+//             if (root->left) {
+//                 nodes.push(root);
+//                 flags.push(1);
+//                 root = root->left;
+//                 flag = 0;
+//                 continue;
+// ret_from_left:
+//                 ;
+//             }
+//             if (root->right) {
+//                 nodes.push(root);
+//                 flags.push(2);
+//                 root = root->right;
+//                 flag = 0;
+//                 continue;
+// ret_from_right:
+//                 ;
+//             }
 
-            order.push_back(root->val);
+//             order.push_back(root->val);
 
-            // recover
-            if (nodes.empty()) {
-                break;
-            }
-            root = nodes.top();
-            flag = flags.top();
-            nodes.pop();
-            flags.pop();
+//             // recover
+//             if (nodes.empty()) {
+//                 break;
+//             }
+//             root = nodes.top();
+//             flag = flags.top();
+//             nodes.pop();
+//             flags.pop();
 
-            // next iteration
-            if (flag == 1) {
-                goto ret_from_left;
-            } else if (flag == 2) {
-                goto ret_from_right;
-            } // default: from to top
-        }
+//             // next iteration
+//             if (flag == 1) {
+//                 goto ret_from_left;
+//             } else if (flag == 2) {
+//                 goto ret_from_right;
+//             } // default: from to top
+//         }
 
-        return order;
-    }
+//         return order;
+//     }
 };
 
+void clean_up(TreeNode *root) {
+    if (root->left) {
+        clean_up(root->left);
+    }
+    if (root->right) {
+        clean_up(root->right);
+    }
+    delete root;
+}
 
 int main()
 {
-    TreeNode *root, *left, *right;
+    TreeNode *root = NULL;
+    TreeNode *left = NULL;
+    TreeNode *right = NULL;
 
-    left = new TreeNode(3);
-    right = new TreeNode(2, left, NULL);
-    root = new TreeNode(1, NULL, right);
+    left = new TreeNode(1);
+    right = new TreeNode(4);
+    root = new TreeNode(3, left, right);
+    left = root;
+    right = new TreeNode(8);
+    root = new TreeNode(5, left, right);
 
     Solution s;
-    vector<int> order = { 3,2,1 };
-    assert(order == s.postorderTraversal(root));
+    vector<int> post_order = { 1,4,3,8,5 };
+    assert(post_order == s.postorderTraversal(root));
 
-    delete left;
-    delete right;
-    delete root;
+    clean_up(root);
 
     return 0;
 }
