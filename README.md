@@ -87,6 +87,7 @@ make clean
 | 164   | Maximum Gap                                    | Hard       | [C++](164.MaximumGap.cpp) |
 | 173   | Binary Search Tree Iterator                    | Medium     | [C++](173.BinarySearchTreeIterator.cpp) |
 | 189   | Rotate Array                                   | Medium     | [C++](189.RotateArray.cpp) |
+| 190   | Reverse Bits                                   | Easy       | [C++](190.ReverseBits.cpp) |
 | 191   | Number of 1 Bits                               | Easy       | [C++](191.NumberOf1Bits.cpp) |
 | 204   | Count Primes                                   | Easy       | [C++](204.CountPrimes.cpp) |
 | 205   | Isomorphic Strings                             | Easy       | [C++](205.IsomorphicStrings.cpp) |
