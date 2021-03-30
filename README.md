@@ -62,6 +62,7 @@ make clean
 | 70    | Climbing Stairs                                | Easy       | [C++](Offer10.2.ClimbingStairs.cpp) |
 | 72    | Edit Distance                                  | Hard       | [C++](72.EditDistance.cpp) |
 | 73    | Set Matrix Zeroes                              | Medium     | [C++](73.SetMatrixZeroes.cpp) |
+| 74    | Search a 2D Matrix                             | Medium     | [C++](74.SearchA2DMatrix.cpp) |
 | 79    | Word Search                                    | Medium     | [C++](79.WordSearch.cpp) |
 | 82    | Remove Duplicates from Sorted List II          | Medium     | [C++](82.RemoveDuplicatesFromSortedListII.cpp) |
 | 83    | Remove Duplicates from Sorted List             | Easy       | [C++](83.RemoveDuplicatesFromSortedList.cpp) |
