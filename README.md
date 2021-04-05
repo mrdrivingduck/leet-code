@@ -68,6 +68,7 @@ make clean
 | 83    | Remove Duplicates from Sorted List             | Easy       | [C++](83.RemoveDuplicatesFromSortedList.cpp) |
 | 85    | Maximal Rectangle                              | Hard       | [C++](85.MaximalRectangle.cpp) |
 | 86    | Partition List                                 | Medium     | [C++](86.PartitionList.cpp) |
+| 88    | Merge Sorted Array                             | Easy       | [C++](88.MergeSortedArray.cpp) |
 | 90    | Subsets II                                     | Medium     | [C++](90.SubsetsII.cpp) |
 | 92    | Reverse Linked List II                         | Medium     | [C++](92.ReverseLinkedListII.cpp) |
 | 103   | Binary Tree Zigzag Level Order Traversal       | Medium     | [C++](103.BinaryTreeZigzagLevelOrderTraversal.cpp) |
