@@ -65,6 +65,7 @@ make clean
 | 74    | Search a 2D Matrix                             | Medium     | [C++](74.SearchA2DMatrix.cpp) |
 | 79    | Word Search                                    | Medium     | [C++](79.WordSearch.cpp) |
 | 80    | Remove Duplicates from Sorted Array II         | Medium     | [C++](80.RemoveDuplicatesFromSortedArrayII.cpp) |
+| 81    | Search in Rotated Sorted Array II              | Medium     | [C++](81.SearchInRotatedSortedArrayII.cpp) |
 | 82    | Remove Duplicates from Sorted List II          | Medium     | [C++](82.RemoveDuplicatesFromSortedListII.cpp) |
 | 83    | Remove Duplicates from Sorted List             | Easy       | [C++](83.RemoveDuplicatesFromSortedList.cpp) |
 | 85    | Maximal Rectangle                              | Hard       | [C++](85.MaximalRectangle.cpp) |
