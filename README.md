@@ -49,6 +49,7 @@ make clean
 | 23    | Merge k Sorted Lists                           | Hard       | [C++](23.MergeKSortedLists.cpp) |
 | 28    | Implement strStr()                             | Easy       | [C++](28.ImplementStrStr.cpp) |
 | 31    | Next Permutation                               | Medium     | [C++](31.NextPermutation.cpp) |
+| 33    | Search in Rotated Sorted Array                 | Medium     | [C++](33.SearchInRotatedSortedArray.cpp) |
 | 34    | Find First and Last Position of Element in Sorted Array | Medium | [C++](34.FindFirstAndLastPositionOfElementInSortedArray.cpp) |
 | 46    | Permutations                                   | Medium     | [C++](46.Permutations.cpp) |
 | 48    | Rotate Image                                   | Medium     | [C++](48.RotateImage.cpp) |
