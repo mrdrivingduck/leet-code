@@ -90,6 +90,7 @@ make clean
 | 147   | Insertion Sort List                            | Medium     | [C++](147.InsertionSortList.cpp) |
 | 148   | Sort List                                      | Medium     | [C++](148.SortList.cpp) |
 | 150   | Evaluate Reverse Polish Notation               | Medium     | [C++](150.EvaluateReversePolishNotation.cpp) |
+| 153   | Find Minimum in Rotated Sorted Array           | Medium     | [C++](153.FindMinimumInRotatedSortedArray.cpp) |
 | 164   | Maximum Gap                                    | Hard       | [C++](164.MaximumGap.cpp) |
 | 173   | Binary Search Tree Iterator                    | Medium     | [C++](173.BinarySearchTreeIterator.cpp) |
 | 189   | Rotate Array                                   | Medium     | [C++](189.RotateArray.cpp) |
