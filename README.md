@@ -98,6 +98,7 @@ make clean
 | 191   | Number of 1 Bits                               | Easy       | [C++](191.NumberOf1Bits.cpp) |
 | 204   | Count Primes                                   | Easy       | [C++](204.CountPrimes.cpp) |
 | 205   | Isomorphic Strings                             | Easy       | [C++](205.IsomorphicStrings.cpp) |
+| 208   | Implement Trie (Prefix Tree)                   | Medium     | [C++](208.ImplementTrie.cpp) |
 | 215   | Kth Largest Element in an Array                | Medium     | [C++](215.KthLargestElementInAnArray.cpp) |
 | 217   | Contains Duplicate                             | Easy       | [C++](217.ContainsDuplicate.cpp) |
 | 222   | Count Complete Tree Nodes                      | Medium     | [C++](222.CountCompleteTreeNodes.cpp) |
