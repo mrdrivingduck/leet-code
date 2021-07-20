@@ -199,6 +199,7 @@ make clean
 | 1458  | Max Dot Product of Two Subsequences            | Hard       | [C++](1458.MaxDotProductOfTwoSubsequences.cpp) |
 | 1584  | Min Cost to Connect All Points                 | Medium     | [C++](1584.MinCostToConnectAllPoints.cpp) |
 | 1603  | Design Parking System                          | Easy       | [C++](1603.DesignParkingSystem.cpp) |
+| 1877  | Minimize Maximum Pair Sum in Array             | Medium     | [C++](1877.MinimizeMaximumPairSumInArray.cpp) |
 
 ## 剑指 Offer
 
@@ -235,6 +236,4 @@ make clean
 ## License
 
 Copyright © 2019-2021, Jingtang Zhang. ([MIT License](LICENSE))
-
----
 
