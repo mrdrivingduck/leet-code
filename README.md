@@ -199,7 +199,9 @@ make clean
 | 1458  | Max Dot Product of Two Subsequences            | Hard       | [C++](1458.MaxDotProductOfTwoSubsequences.cpp) |
 | 1584  | Min Cost to Connect All Points                 | Medium     | [C++](1584.MinCostToConnectAllPoints.cpp) |
 | 1603  | Design Parking System                          | Easy       | [C++](1603.DesignParkingSystem.cpp) |
+| 1736  | Latest Time by Replacing Hidden Digits         | Easy       | [C++](1736.LatestTimeByReplacingHiddenDigits.cpp) |
 | 1877  | Minimize Maximum Pair Sum in Array             | Medium     | [C++](1877.MinimizeMaximumPairSumInArray.cpp) |
+| 1893  | Check if All the Integers in a Range Are Covered | Easy     | [C++](1893.CheckIfAllTheIntegersInARangeAreCovered.cpp) |
 
 ## 剑指 Offer
 
