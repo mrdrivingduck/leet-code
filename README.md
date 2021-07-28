@@ -167,6 +167,7 @@ make clean
 | 842   | Split Array into Fibonacci Sequence            | Medium     | [C++](842.SplitArrayIntoFibonacciSequence.cpp) |
 | 860   | Lemonade Change                                | Easy       | [C++](860.LemonadeChange.cpp) |
 | 861   | Score After Flipping Matrix                    | Medium     | [C++](861.ScoreAfterFlippingMatrix.cpp) |
+| 863   | All Nodes Distance K in Binary Tree            | Medium     | [C++](863.AllNodesDistanceKInBinaryTree.cpp) |
 | 867   | Transpose Matrix                               | Easy       | [C++](867.TransposeMatrix.cpp) |
 | 888   | Fair Candy Swap                                | Easy       | [C++](888.FairCandySwap.cpp) |
 | 896   | Monotonic Array                                | Easy       | [C++](896.MonotonicArray.cpp) |
