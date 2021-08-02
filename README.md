@@ -156,6 +156,7 @@ make clean
 | 721   | Accounts Merge                                 | Medium     | [C++](721.AccountsMerge.cpp) |
 | 724   | Find Pivot Index                               | Easy       | [C++](724.FindPivotIndex.cpp) |
 | 738   | Monotone Increasing Digits                     | Medium     | [C++](738.MonotoneIncreasingDigits.cpp) |
+| 743   | Network Delay Time                             | Medium     | [C++](743.NetworkDelayTime.cpp) |
 | 746   | Min Cost Climbing Stairs                       | Easy       | [C++](746.MinCostClimbingStairs.cpp) |
 | 766   | Toeplitz Matrix                                | Easy       | [C++](766.ToeplitzMatrix.cpp) |
 | 767   | Reorganize String                              | Medium     | [C++](767.ReorganizeString.cpp) |
