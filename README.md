@@ -64,6 +64,7 @@ make clean
 | 72    | Edit Distance                                  | Hard       | [C++](72.EditDistance.cpp) |
 | 73    | Set Matrix Zeroes                              | Medium     | [C++](73.SetMatrixZeroes.cpp) |
 | 74    | Search a 2D Matrix                             | Medium     | [C++](74.SearchA2DMatrix.cpp) |
+| 75    | Sort Colors                                    | Medium     | [C++](75.SortColors.cpp) |
 | 79    | Word Search                                    | Medium     | [C++](79.WordSearch.cpp) |
 | 80    | Remove Duplicates from Sorted Array II         | Medium     | [C++](80.RemoveDuplicatesFromSortedArrayII.cpp) |
 | 81    | Search in Rotated Sorted Array II              | Medium     | [C++](81.SearchInRotatedSortedArrayII.cpp) |
