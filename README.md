@@ -74,6 +74,7 @@ make clean
 | 86    | Partition List                                 | Medium     | [C++](86.PartitionList.cpp) |
 | 88    | Merge Sorted Array                             | Easy       | [C++](88.MergeSortedArray.cpp) |
 | 90    | Subsets II                                     | Medium     | [C++](90.SubsetsII.cpp) |
+| 91    | Decode Ways                                    | Medium     | [C++](91.DecodeWays.cpp) |
 | 92    | Reverse Linked List II                         | Medium     | [C++](92.ReverseLinkedListII.cpp) |
 | 103   | Binary Tree Zigzag Level Order Traversal       | Medium     | [C++](103.BinaryTreeZigzagLevelOrderTraversal.cpp) |
 | 105   | Construct Binary Tree from Preorder and Inorder Traversal   | Medium     | [C++](Offer07.ConstructBinaryTreeFromPreorderAndInorderTraversal.cpp) |
