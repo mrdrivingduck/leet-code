@@ -88,6 +88,7 @@ make clean
 | 132   | Palindrome Partitioning II                     | Hard       | [C++](132.PalindromePartitioningII.cpp) |
 | 134   | Gas Station                                    | Medium     | [C++](134.GasStation.cpp) |
 | 135   | Candy                                          | Hard       | [C++](135.Candy.cpp) |
+| 137   | Single Number II                               | Medium     | [C++](137.SingleNumberII.cpp) |
 | 138   | Copy List with Random Pointer                  | Medium     | [C++](Offer35.CopyListWithRandomPointer.cpp) |
 | 145   | Binary Tree Postorder Traversal                | Medium     | [C++](145.BinaryTreePostorderTraversal.cpp) |
 | 146   | LRU Cache                                      | Medium     | [C++](146.LRUCache.cpp) |
@@ -239,6 +240,7 @@ make clean
 | 56    | 剑指 Offer 56 - II. 数组中数字出现的次数 II       | Medium    | [C++](Offer56.2.NumbersInArrayII.cpp) |
 | 63    | 剑指 Offer 63. 股票的最大利润                    | Medium    | [C++](Offer63.BestTimeToBuyAndSellStock.cpp) |
 | 66    | 剑指 Offer 66. 构建乘积数组                      | Medium    | [C++](Offer66.MultiplyingArrays.cpp) |
+| 4     | 剑指 Offer II 4. 只出现一次的数字                 | Medium    | [C++](137.SingleNumberII.cpp) |
 | 81    | 剑指 Offer II 81. 允许重复选择元素的组合           | Medium    | [C++](39.CombinationSum.cpp) |
 | 82    | 剑指 Offer II 82. 含有重复元素集合的组合           | Medium    | [C++](40.CombinationSumII.cpp) |
 
