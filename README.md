@@ -51,6 +51,8 @@ make clean
 | 31    | Next Permutation                               | Medium     | [C++](31.NextPermutation.cpp) |
 | 33    | Search in Rotated Sorted Array                 | Medium     | [C++](33.SearchInRotatedSortedArray.cpp) |
 | 34    | Find First and Last Position of Element in Sorted Array | Medium | [C++](34.FindFirstAndLastPositionOfElementInSortedArray.cpp) |
+| 39    | Combination Sum                                | Medium     | [C++](39.CombinationSum.cpp) |
+| 40    | Combination Sum II                             | Medium     | [C++](40.CombinationSumII.cpp) |
 | 46    | Permutations                                   | Medium     | [C++](46.Permutations.cpp) |
 | 48    | Rotate Image                                   | Medium     | [C++](48.RotateImage.cpp) |
 | 49    | Group Anagrams                                 | Medium     | [C++](49.GroupAnagrams.cpp) |
@@ -237,6 +239,8 @@ make clean
 | 56    | 剑指 Offer 56 - II. 数组中数字出现的次数 II       | Medium    | [C++](Offer56.2.NumbersInArrayII.cpp) |
 | 63    | 剑指 Offer 63. 股票的最大利润                    | Medium    | [C++](Offer63.BestTimeToBuyAndSellStock.cpp) |
 | 66    | 剑指 Offer 66. 构建乘积数组                      | Medium    | [C++](Offer66.MultiplyingArrays.cpp) |
+| 81    | 剑指 Offer II 81. 允许重复选择元素的组合           | Medium    | [C++](39.CombinationSum.cpp) |
+| 82    | 剑指 Offer II 82. 含有重复元素集合的组合           | Medium    | [C++](40.CombinationSumII.cpp) |
 
 ---
 
