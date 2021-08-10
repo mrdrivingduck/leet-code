@@ -54,6 +54,7 @@ make clean
 | 39    | Combination Sum                                | Medium     | [C++](39.CombinationSum.cpp) |
 | 40    | Combination Sum II                             | Medium     | [C++](40.CombinationSumII.cpp) |
 | 46    | Permutations                                   | Medium     | [C++](46.Permutations.cpp) |
+| 47    | Permutations II                                | Medium     | [C++](47.PermutationsII.cpp) |
 | 48    | Rotate Image                                   | Medium     | [C++](48.RotateImage.cpp) |
 | 49    | Group Anagrams                                 | Medium     | [C++](49.GroupAnagrams.cpp) |
 | 50    | Pow(x, n)                                      | Medium     | [C++](Offer16.MyPow.cpp) |
@@ -122,6 +123,7 @@ make clean
 | 303   | Range Sum Query - Immutable                    | Easy       | [C++](303.RangeSumQueryImmutable.cpp) |
 | 304   | Range Sum Query 2D - Immutable                 | Medium     | [C++](304.RangeSumQuery2DImmutable.cpp) |
 | 316   | Remove Duplicate Letters                       | Medium     | [C++](316.RemoveDuplicateLetters.cpp) |
+| 318   | Maximum Product of Word Lengths                | Medium     | [C++](318.MaximumProductOfWordLengths.cpp) |
 | 321   | Create Maximum Number                          | Hard       | [C++](321.CreateMaximumNumber.cpp) |
 | 328   | Odd Even Linked List                           | Medium     | [C++](328.OddEvenLinkedList.cpp) |
 | 331   | Verify Preorder Serialization of a Binary Tree | Medium     | [C++](331.VerifyPreorderSerializationOfABinaryTree.cpp) |
@@ -157,6 +159,7 @@ make clean
 | 692   | Top K Frequent Words                           | Medium     | [C++](692.TopKFrequentWords.cpp) |
 | 697   | Degree of an Array                             | Easy       | [C++](697.DegreeOfAnArray.cpp) |
 | 703   | Kth Largest Element in a Stream                | Easy       | [C++](703.KthLargestElementInAStream.cpp) |
+| 713   | Subarray Product Less Than K                   | Medium     | [C++](713.SubarrayProductLessThanK.cpp) |
 | 714   | Best Time to Buy and Sell Stock with Transaction Fee | Medium     | [C++](714.BestTimeToBuyAndSellStockWithTransactionFee.cpp) |
 | 721   | Accounts Merge                                 | Medium     | [C++](721.AccountsMerge.cpp) |
 | 724   | Find Pivot Index                               | Easy       | [C++](724.FindPivotIndex.cpp) |
@@ -241,8 +244,11 @@ make clean
 | 63    | 剑指 Offer 63. 股票的最大利润                    | Medium    | [C++](Offer63.BestTimeToBuyAndSellStock.cpp) |
 | 66    | 剑指 Offer 66. 构建乘积数组                      | Medium    | [C++](Offer66.MultiplyingArrays.cpp) |
 | 4     | 剑指 Offer II 4. 只出现一次的数字                 | Medium    | [C++](137.SingleNumberII.cpp) |
+| 5     | 剑指 Offer II 5. 单词长度的最大乘积               | Medium    | [C++](318.MaximumProductOfWordLengths.cpp) |
+| 9     | 剑指 Offer II 9. 乘积小于 K 的子数组              | Medium    | [C++](713.SubarrayProductLessThanK.cpp) |
 | 81    | 剑指 Offer II 81. 允许重复选择元素的组合           | Medium    | [C++](39.CombinationSum.cpp) |
 | 82    | 剑指 Offer II 82. 含有重复元素集合的组合           | Medium    | [C++](40.CombinationSumII.cpp) |
+| 84    | 剑指 Offer II 84. 含有重复元素集合的全排列         | Medium    | [C++](47.PermutationsII.cpp) |
 
 ---
 
