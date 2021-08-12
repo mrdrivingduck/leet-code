@@ -145,6 +145,7 @@ make clean
 | 503   | Next Greater Element II                        | Medium     | [C++](503.NextGreaterElementII.cpp) |
 | 547   | Number of Provinces                            | Medium     | [C++](547.NumberOfProvinces.cpp) |
 | 557   | Reverse Words in a String III                  | Easy       | [C++](557.ReverseWordsInAStringIII.cpp) |
+| 560   | Subarray Sum Equals K                          | Medium     | [C++](560.SubarraySumEqualsK.cpp) |
 | 561   | Array Partition I                              | Easy       | [C++](561.ArrayPartitionI.cpp) |
 | 566   | Reshape the Matrix                             | Easy       | [C++](566.ReshapeTheMatrix.cpp) |
 | 567   | Permutation in String                          | Medium     | [C++](567.PermutationInString.cpp) |
@@ -152,6 +153,7 @@ make clean
 | 621   | Task Scheduler                                 | Medium     | [C++](621.TaskScheduler.cpp) |
 | 628   | Maximum Product of Three Numbers               | Easy       | [C++](628.MaximumProductOfThreeNumbers.cpp) |
 | 643   | Maximum Average Subarray I                     | Easy       | [C++](643.MaximumAverageSubarrayI.cpp) |
+| 647   | Palindromic Substring                          | Medium     | [C++](647.PalindromicSubstrings.cpp) |
 | 649   | Dota2 Senate                                   | Medium     | [C++](649.Dota2Senate.cpp) |
 | 665   | Non-decreasing Array                           | Easy       | [C++](665.NonDecreasingArray.cpp) |
 | 674   | Longest Continuous Increasing Subsequence      | Easy       | [C++](674.LongestContinuousIncreasingSubsequence.cpp) |
@@ -243,12 +245,14 @@ make clean
 | 56    | 剑指 Offer 56 - II. 数组中数字出现的次数 II       | Medium    | [C++](Offer56.2.NumbersInArrayII.cpp) |
 | 63    | 剑指 Offer 63. 股票的最大利润                    | Medium    | [C++](Offer63.BestTimeToBuyAndSellStock.cpp) |
 | 66    | 剑指 Offer 66. 构建乘积数组                      | Medium    | [C++](Offer66.MultiplyingArrays.cpp) |
-| 4     | 剑指 Offer II 4. 只出现一次的数字                 | Medium    | [C++](137.SingleNumberII.cpp) |
-| 5     | 剑指 Offer II 5. 单词长度的最大乘积               | Medium    | [C++](318.MaximumProductOfWordLengths.cpp) |
-| 9     | 剑指 Offer II 9. 乘积小于 K 的子数组              | Medium    | [C++](713.SubarrayProductLessThanK.cpp) |
-| 81    | 剑指 Offer II 81. 允许重复选择元素的组合           | Medium    | [C++](39.CombinationSum.cpp) |
-| 82    | 剑指 Offer II 82. 含有重复元素集合的组合           | Medium    | [C++](40.CombinationSumII.cpp) |
-| 84    | 剑指 Offer II 84. 含有重复元素集合的全排列         | Medium    | [C++](47.PermutationsII.cpp) |
+| 4     | 剑指 Offer II 004. 只出现一次的数字              | Medium    | [C++](137.SingleNumberII.cpp) |
+| 5     | 剑指 Offer II 005. 单词长度的最大乘积            | Medium    | [C++](318.MaximumProductOfWordLengths.cpp) |
+| 9     | 剑指 Offer II 009. 乘积小于 K 的子数组           | Medium    | [C++](713.SubarrayProductLessThanK.cpp) |
+| 10    | 剑指 Offer II 010. 和为 k 的子数组               | Medium    | [C++](560.SubarraySumEqualsK.cpp) |
+| 20    | 剑指 Offer II 020. 回文子字符串的个数             | Medium    | [C++](647.PalindromicSubstrings.cpp) |
+| 81    | 剑指 Offer II 081. 允许重复选择元素的组合          | Medium    | [C++](39.CombinationSum.cpp) |
+| 82    | 剑指 Offer II 082. 含有重复元素集合的组合          | Medium    | [C++](40.CombinationSumII.cpp) |
+| 84    | 剑指 Offer II 084. 含有重复元素集合的全排列        | Medium    | [C++](47.PermutationsII.cpp) |
 
 ---
 
