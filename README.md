@@ -136,6 +136,7 @@ make clean
 | 402   | Remove K Digits                                | Medium     | [C++](402.RemoveKDigits.cpp) |
 | 424   | Longest Repeating Character Replacement        | Medium     | [C++](424.LongestRepeatingCharacterReplacement.cpp) |
 | 435   | Non-overlapping Intervals                      | Medium     | [C++](435.NonOverlappingIntervals.cpp) |
+| 438   | Find All Anagrams in a String                  | Medium     | [C++](438.FindAllAnagramsInAString.cpp) |
 | 448   | Find All Numbers Disappeared in an Array       | Easy       | [C++](448.FindAllNumbersDisappearedInAnArray.cpp) |
 | 452   | Minimum Number of Arrows to Burst Balloons     | Medium     | [C++](452.MinimumNumberOfArrowsToBurstBalloons.cpp) |
 | 454   | 4Sum II                                        | Medium     | [C++](454.4SumII.cpp) |
@@ -249,6 +250,7 @@ make clean
 | 5     | 剑指 Offer II 005. 单词长度的最大乘积            | Medium    | [C++](318.MaximumProductOfWordLengths.cpp) |
 | 9     | 剑指 Offer II 009. 乘积小于 K 的子数组           | Medium    | [C++](713.SubarrayProductLessThanK.cpp) |
 | 10    | 剑指 Offer II 010. 和为 k 的子数组               | Medium    | [C++](560.SubarraySumEqualsK.cpp) |
+| 15    | 剑指 Offer II 015. 字符串中的所有变位词           | Medium    | [C++](438.FindAllAnagramsInAString.cpp) |
 | 20    | 剑指 Offer II 020. 回文子字符串的个数             | Medium    | [C++](647.PalindromicSubstrings.cpp) |
 | 81    | 剑指 Offer II 081. 允许重复选择元素的组合          | Medium    | [C++](39.CombinationSum.cpp) |
 | 82    | 剑指 Offer II 082. 含有重复元素集合的组合          | Medium    | [C++](40.CombinationSumII.cpp) |
