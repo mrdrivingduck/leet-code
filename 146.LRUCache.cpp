@@ -53,84 +53,65 @@
  */
 
 /*
-    用 hash table 维护键值对，并在值中额外维护两个指针，从而形成以访问先后顺序
-    为顺序的双向链表。当对结点进行访问操作时，通过 hash table 拿到对结点的引用，
-    将结点移出链表并重新插入到链表头部。当需要进行淘汰操作时，将链表尾部的结点
-    移除链表并从 hash table 中移除。
+    用 hash table 维护键值对，值为双向链表的迭代器。在双向链表中维护实际
+    的键值对。在查找时，通过 key 找到双向链表迭代器，从而访问到链表节点；
+    在淘汰时，通过链表的最后一个节点拿到 key，从而在 hash table 中移除节点，
+    在链表中也移除节点。
  */
 
 #include <cassert>
 
 #include <iostream>
+#include <list>
 #include <unordered_map>
 using std::cout;
 using std::endl;
+using std::list;
 using std::unordered_map;
 
 struct node {
     int key;
     int value;
-    node *prev;
-    node *next;
 };
 
 class LRUCache {
 private:
     int capacity;
-    unordered_map<int, node> map;
-    node head;
-    node tail;
-
-    void link_head(node *p) {
-        p->next = head.next;
-        head.next = p;
-        p->prev = p->next->prev;
-        p->next->prev = p;
-    }
-
-    void unlink(node *p) {
-        p->prev->next = p->next;
-        p->next->prev = p->prev;
-    }
+    unordered_map<int, list<node>::iterator> map;
+    list<node> nodes;
 
 public:
     LRUCache(int capacity) {
         this->capacity = capacity;
-
-        head.prev = NULL;
-        head.next = &tail;
-        tail.next = NULL;
-        tail.prev = &head;
+        map.reserve(capacity);
     }
     
     int get(int key) {
-        unordered_map<int, node>::iterator iter = map.find(key);
+        unordered_map<int, list<node>::iterator>::iterator iter = map.find(key);
         if (iter == map.end()) {
             return -1;
         }
         
-        node *p = &iter->second;
-        unlink(p);
-        link_head(p);
-        return p->value;
+        node value = *iter->second;
+        nodes.erase(iter->second);
+        nodes.push_front(value);
+        iter->second = nodes.begin();
+        return value.value;
     }
     
     void put(int key, int value) {
-        unordered_map<int, node>::iterator iter = map.find(key);
-        if (iter != map.end()) {
-            node *p = &iter->second;
-            unlink(p);
-            link_head(p);
-            p->value = value;
-        } else {
-            iter = map.insert(std::pair<int, node>(key, { key, value, NULL, NULL })).first;
-            link_head(&iter->second);
-
-            if ((int) map.size() > capacity) {
-                node *p = tail.prev;
-                unlink(p);
-                map.erase(p->key);
+        if (get(key) == -1) {
+            if ((size_t) capacity == nodes.size()) {
+                node last = nodes.back();
+                map.erase(last.key);
+                nodes.pop_back();
             }
+
+            node n = { key, value };
+            nodes.push_front(n);
+            map.insert(std::make_pair(key, nodes.begin()));
+        } else {
+            nodes.begin()->value = value;
         }
     }
 };
