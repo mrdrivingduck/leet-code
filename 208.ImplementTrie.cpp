@@ -61,7 +61,6 @@
 
 #include <iostream>
 #include <string>
-#include <unordered_map>
 using std::cout;
 using std::endl;
 using std::string;

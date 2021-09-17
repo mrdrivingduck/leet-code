@@ -105,6 +105,7 @@ make clean
 | 204   | Count Primes                                   | Easy       | [C++](204.CountPrimes.cpp) |
 | 205   | Isomorphic Strings                             | Easy       | [C++](205.IsomorphicStrings.cpp) |
 | 208   | Implement Trie (Prefix Tree)                   | Medium     | [C++](208.ImplementTrie.cpp) |
+| 210   | Course Schedule II                             | Medium     | [C++](210.CourseScheduleII.cpp) |
 | 215   | Kth Largest Element in an Array                | Medium     | [C++](215.KthLargestElementInAnArray.cpp) |
 | 217   | Contains Duplicate                             | Easy       | [C++](217.ContainsDuplicate.cpp) |
 | 222   | Count Complete Tree Nodes                      | Medium     | [C++](222.CountCompleteTreeNodes.cpp) |
@@ -257,6 +258,7 @@ make clean
 | 81    | 剑指 Offer II 081. 允许重复选择元素的组合          | Medium    | [C++](39.CombinationSum.cpp) |
 | 82    | 剑指 Offer II 082. 含有重复元素集合的组合          | Medium    | [C++](40.CombinationSumII.cpp) |
 | 84    | 剑指 Offer II 084. 含有重复元素集合的全排列        | Medium    | [C++](47.PermutationsII.cpp) |
+| 113   | 剑指 Offer II 113. 课程顺序                     | Medium    | [C++](210.CourseScheduleII.cpp) |
 
 ---
 
